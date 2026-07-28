@@ -1,47 +1,64 @@
-Canal @ChismeParaLlevar 
-vídeos de 19 a 23 minutos (chisme más solución), y cortos 70 a 90 segundos (solo solución). Audiencia mujeres de 20 a 70 años.
+@ChismeParaLlevar 
+Vídeos de 19 a 23 minutos (chisme más solución) y cortos 70 a 90 segundos (solo solución). 
+
+Audiencia
+Mujeres trabajadoras de 20 a 60 años.
+
+Beneficio al espectador
+Otorgarles entretenimiento y salud, fomentando el morbo del pasado mal y la curiosidad 
+por las consecuencias futuras. 
+El espectador aprende a prevenir enfermedades y mejorar su bienestar mediante remedios y 
+hábitos saludables.
 
 Descripción
-“La Señorita Bety (Inteligencia Artificial) y Beto (protagonista), platican chismes misteriosos, intrigantes de malosos 
-(parásitos, villanos, malditos) y buenos (remedios, curación, tratamientos, antídotos, hábitos),que no pasan de moda. 
-Es su meta lograr entretenimiento y salud al fomentar el morbo del mal pasado y la curiosidad de consecuencias futuras.
+Narración de un suceso o problema (chisme) y su solución visual en la preparación de un 
+remedio, antídoto, brebaje o tonico, su conservación y sugerencia de consumo.
 
 Estilo
-Mezcla el audio de la narración de un problema o suceso (chisme) y con el video de la solución (preparación del remedio,
-su conservación y sugerencia de consumo).
+Exposición en paralelo de la narración del chisme y la preparación visual de la solución.
+Narración (alegre, amena) en conjunto con la preparación visual (practica, agil).
+
+El chisme (problema, suceso, maldad) narrado por Beto (protagonista) y Beti (interlocutora)
+participa con preguntas y comentarios (fomenta interes). 
 
 Estructura del estilo narrativo
-Chisme: audio narrado dramaticamente, apoyado de efectos sonoros y música de fondo teatral. La narración es una 
-comunicación entre el chismoso (Beto) con el personaje femenino (Bety AI) la cual interviene aportando preguntas 
-para desarrollar el chisme y tambíen con explicación de conceptos técnicos.
-Solución visual: Preparación del remedio (solución) con metodología práctica y ágil. El chismoso no narra lo que 
-cocina, pero la espectadora (Bety AI) sí crítica lo cocinado. La explicación del video es mediante texto incrustado 
-(descripción de ingredientes, tiempo, cantidades, procesos).
+Chisme narrado dramaticamente por Beto, apoyado en efectos sonoros y música teatral.  
+El chismoso (Beto) no narra lo cocinado.
+Beti interviene en la narración aportando preguntas técnicas para desarrollar el chisme y 
+con comentarios y/o exclamaciones comicas que alegran el relato. 
+Beti sí crítica lo cocinado.
 
-Audio (maldad): chisme de villanos: parasitos, artropodos, microbios, malos hábitos.
-Video (benigno): preparación de remedio, menjurje, tónico, tes, brebaje.
+Solución visual: Preparación del remedio (solución) con metodología práctica y ágil. 
+La explicación del video es mediante texto incrustado (descripción de ingredientes, tiempo, 
+cantidades, procesos).
+
+Maldad (audio): villanos, parasitos, artropodos, microbios, malos hábitos.
+Benigno (vídeo): remedio, menjurje, tónico, brebaje.
 
 Estructura habitual
-Presentación del chisme + mostrar imagen de lo que se cocinara → antecedentes del chime + presentar ingredientes → 
-desarrollo del chisme + preparación de receta → resultado del suceso + resultado de lo cocinado → descripción de 
-la solución o remedio + conservación de lo preparado → consecuencias futuras del chisme (sugerencia de consumo de 
-lo preparado).
+1. Presentación del chisme + mostrar imagen de lo que se cocinara. 
+2. Antecedentes del chime + presentar ingredientes.  
+3. Desarrollo del chisme + preparación de receta.  
+4. Resultado del suceso + resultado de lo cocinado.  
+5. Descripción del remedio + conservación de lo preparado.
+6. Consecuencias futuras del chisme + sugerencia de consumo.
 
 Títulos
-"La verdadera historia de...X", "Que ocurrió en...X", "Adelgaza, comiendo X", "Elimina el mal X, come Y", "Disminuye 
-la X, comiendo Y ", "Consigue novio, dale a tomar bebida de X", "Dura toda la noche, consume más X", "Evita amargarte, 
-consume X" , "Come X, te ayuda a adelgazar" , "Cuanta X comer para lograr Y".
+"La verdadera historia de...X", "Que ocurrió en...X", "Adelgaza, comiendo X", 
+"Elimina el mal X, come Y", "Disminuye la X, comiendo Y ", "Consigue novio, toma bebida de X", 
+"Dura toda la noche, consume más X", "Evita amargarte, consume X" , "Come X, te ayuda a 
+adelgazar" , "Cuanta X comer para lograr Y".
 
-
-Personaje masculino Beto
-Protagonista (narrador del chisme), joven, cordial, caballeroso, simpatico, ameno, alegre, técnico.
+Personaje Beto
+- Protagonista (narrador del chisme), joven, cordial, caballeroso, simpatico, ameno, técnico.
 - Su narración es intrigante y tranquila para generar curiosidad.
-- Cuando el relato lo requiera, dramatiza el tono de voz y cambia el ritmo, disminuyendo y/o aumentado, generando tensión.
+- Cuando el relato lo requiera, dramatiza el tono de voz y cambia el ritmo de la voz 
+generando tensión.
 
-Personaje femenino Bety AI
+Personaje Beti 
 - joven, animada, alegre, risueña, directa, inteligente.
-- cuestiona la narración, "en serio?", "y como paso?", "que piensa la gente?", "obtuvo su merecido?, "cual es el 
-beneficio?
-- aporta contexto a la narrativa, "según internet...", "las encuestan muestran que...", "la evidencia científica 
-muestra que..."
+- cuestiona la narración, "en serio?", "y como paso?", "que piensa la gente?", "obtuvo su 
+merecido?, "cual es el beneficio?
+- aporta contexto a la narrativa, "según internet...", "las encuestan muestran que...", 
+"la evidencia científica muestra que..."
 - además reacciona al relato expresando emociones, "no es posible!", "esta raro?", "wooow!".
