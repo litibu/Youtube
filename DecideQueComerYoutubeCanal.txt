@@ -1,8 +1,4 @@
-Canal
-Decide qué comer
-
-Nombre en youtube
-@DecideQueComer
+Canal  @DecideQueComer 
 
 Descripción
 Se informa al espectador sobre las principales diferencias entre alimentos semejantes.
@@ -18,4 +14,3 @@ Jóvenes indecisos, interesados en experimentar sabores nuevos.
 
 Ejemplo de Canal
 @Foodiscover
-
