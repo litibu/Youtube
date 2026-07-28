@@ -43,12 +43,6 @@ Estructura habitual
 5. Descripción del remedio + conservación de lo preparado.
 6. Consecuencias futuras del chisme + sugerencia de consumo.
 
-Títulos
-"La verdadera historia de...X", "Que ocurrió en...X", "Adelgaza, comiendo X", 
-"Elimina el mal X, come Y", "Disminuye la X, comiendo Y ", "Consigue novio, toma bebida de X", 
-"Dura toda la noche, consume más X", "Evita amargarte, consume X" , "Come X, te ayuda a 
-adelgazar" , "Cuanta X comer para lograr Y".
-
 Personaje Beto
 - Protagonista (narrador del chisme), joven, cordial, caballeroso, simpatico, ameno, técnico.
 - Su narración es intrigante y tranquila para generar curiosidad.
@@ -56,9 +50,15 @@ Personaje Beto
 generando tensión.
 
 Personaje Beti 
-- joven, animada, alegre, risueña, directa, inteligente.
-- cuestiona la narración, "en serio?", "y como paso?", "que piensa la gente?", "obtuvo su 
+- Joven, animada, alegre, risueña, directa, inteligente.
+- Cuestiona la narración, "en serio?", "y como paso?", "que piensa la gente?", "obtuvo su 
 merecido?, "cual es el beneficio?
-- aporta contexto a la narrativa, "según internet...", "las encuestan muestran que...", 
+- Aporta contexto a la narrativa, "según internet...", "las encuestan muestran que...", 
 "la evidencia científica muestra que..."
-- además reacciona al relato expresando emociones, "no es posible!", "esta raro?", "wooow!".
+- Además reacciona al relato expresando emociones, "no es posible!", "esta raro?", "wooow!".
+
+Títulos propuestos para los vídeos
+"La verdadera historia de...X", "Que ocurrió en...X", "Adelgaza, comiendo X", 
+"Elimina el mal X, come Y", "Disminuye la X, comiendo Y ", "Consigue novio, toma bebida de X", 
+"Dura toda la noche, consume más X", "Evita amargarte, consume X" , "Come X, te ayuda a 
+adelgazar" , "Cuanta X comer para lograr Y".

@@ -1,16 +1,53 @@
-Canal  @DecideQueComer 
-
-Descripción
-Se informa al espectador sobre las principales diferencias entre alimentos semejantes.
-Se exponen en detalle sus componentes, sabor característico, hábitos de consumo, origen regional,
-acompañamiento con otros alimentos y popularidad.
-
-Estilo
-Narrado en diálogo con el protagonista Beto y la interlocutora Beti. Se apoya en imágenes y vídeos
-libres de derechos de autor. La música de ambiente cambia con cada alimento descrito.
+@DecideQueComer 
+Vídeos de 19 a 23 minutos, con la narración de las especificaiones de cada alimento 
+y la comparación entre ellos. 
 
 Audiencia
 Jóvenes indecisos, interesados en experimentar sabores nuevos.
+
+Beneficio al espectador
+Ayudarlos a decidir qué comer, presentando comparaciones entre alimentos similares y 
+explicando sus diferencias en sabor, textura, origen y acompañamientos.
+
+Descripción
+Se informa al espectador sobre las principales diferencias entre alimentos semejantes.
+Se exponen en detalle sus componentes, sabor característico, hábitos de consumo, origen 
+regional, acompañamiento con otros alimentos y popularidad.
+
+Estilo
+Narración en diálogo entre el protagonista Beto y la interlocutora Beti. 
+Se apoya en imágenes y vídeos libres de derechos de autor. La música de ambiente cambia 
+con cada alimento descrito y se anexan cortinilla musical o efecto sonoro de transición 
+entre cada uno de los alimentos.
+
+Estructura del estilo narrativo
+1. Presentación rapida de todos los alimentos a comparar. 
+2. Presentación del alimento A y sus características.
+3. Presentación del alimento B y sus características.
+4. Comparación entre los diferentes alimentos, destacando sus diferencias y similitudes.
+5. Conclusión y recomendación final sobre cuál alimento elegir según el gusto del 
+espectador.
+
+Personaje Beto
+- Protagonista (narrador del chisme), joven, cordial, caballeroso, simpatico, ameno, técnico.
+- Su narración es intrigante y tranquila para generar curiosidad.
+- Cuando el relato lo requiera, dramatiza el tono de voz y cambia el ritmo de la voz 
+generando tensión.
+
+Personaje Beti 
+- joven, animada, alegre, risueña, directa, inteligente.
+- cuestiona la narración, "en serio?", "y como paso?", "que piensa la gente?", "obtuvo su 
+merecido?, "cual es el beneficio?
+- aporta contexto a la narrativa, "según internet...", "las encuestan muestran que...", 
+"la evidencia científica muestra que..."
+- además reacciona al relato expresando emociones, "no es posible!", "esta raro?", "wooow!".
+
+Títulos propuestos para los vídeos
+- ¿De que quieres tu torta?
+- ¿De cual pizza ordenamos?
+- ¿Cual hamburguesa prefieres?
+- ¿Cual cerveza es mejor para...?
+- ¿De que van a ser tus tacos? 
 
 Ejemplo de Canal
 @Foodiscover
