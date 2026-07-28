@@ -1,7 +1,7 @@
 Canal
 Decide qué comer
 
-Nombre en YouTube
+Nombre en youtube
 @DecideQueComer
 
 Descripción
@@ -9,13 +9,13 @@ Se informa al espectador sobre las principales diferencias entre alimentos semej
 Se exponen en detalle sus componentes, sabor característico, hábitos de consumo, origen regional,
 acompañamiento con otros alimentos y popularidad.
 
-Audiencia
-Jóvenes indecisos, interesados en experimentar sabores nuevos.
-
 Estilo
 Narrado en diálogo con el protagonista Beto y la interlocutora Beti. Se apoya en imágenes y vídeos
 libres de derechos de autor. La música de ambiente cambia con cada alimento descrito.
 
-Ejemplo de canal
+Audiencia
+Jóvenes indecisos, interesados en experimentar sabores nuevos.
+
+Ejemplo de Canal
 @Foodiscover
 
