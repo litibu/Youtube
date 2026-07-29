@@ -29,18 +29,17 @@ Estructura del estilo narrativo
 espectador.
 
 Personaje Beto
-- Protagonista (narrador del chisme), joven, cordial, caballeroso, simpatico, ameno, técnico.
+- Protagonista cordial, caballeroso, simpatico, ameno, técnico.
 - Su narración es intrigante y tranquila para generar curiosidad.
 - Cuando el relato lo requiera, dramatiza el tono de voz y cambia el ritmo de la voz 
 generando tensión.
 
 Personaje Beti 
-- joven, animada, alegre, risueña, directa, inteligente.
-- cuestiona la narración, "en serio?", "y como paso?", "que piensa la gente?", "obtuvo su 
-merecido?, "cual es el beneficio?
-- aporta contexto a la narrativa, "según internet...", "las encuestan muestran que...", 
-"la evidencia científica muestra que..."
-- además reacciona al relato expresando emociones, "no es posible!", "esta raro?", "wooow!".
+- Joven, animada, alegre, risueña, directa, inteligente.
+- Cuestiona la narración al solicitar más informarción, "en serio?...platicame más",
+ "y como paso?", "de eso, que piensa a gente?", "obtuvo lo que buscaba?, 
+ "por que tarda tanto?".
+- Reacciona al relato expresando emociones, "no es posible!", "esta raro?", "wooow!".
 
 Títulos propuestos para los vídeos
 - ¿De que quieres tu torta?
