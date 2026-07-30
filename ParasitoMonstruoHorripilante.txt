@@ -14,12 +14,9 @@ Descripción
 Relatos de la destrucción de parásitos monstruosos, presentados en un formato 
 similar al de los videojuegos.
 Cada historia te sumergirá en un mundo hostil donde los horripilantes parásitos 
-amenazan la vida de sus anfitriones. A través de gráficos impactantes y 
-narrativas envolventes, experimentarás la lucha por la supervivencia y la 
-eliminación de criaturas abominables. Se expondrán sus comportamientos malignos 
-y efectos aberrantes en sus anfitriones.
-Prepárate para la experiencia intensa y emocionante mientras descubres el 
-secreto de estos seres horripilantes.
+amenazan la vida de sus anfitriones. Experimentarás la lucha por la supervivencia 
+y la eliminación de criaturas abominables. Se expondrán sus comportamientos 
+malignos y efectos aberrantes en sus anfitriones.
 
 Estructura del video
 Introducción
