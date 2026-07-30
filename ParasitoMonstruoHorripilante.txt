@@ -2,7 +2,7 @@ Opción de canal de video
 Asesino de monstruos (@AsesinoMonstruos)
 
 Temática
-Relatos del asesinato de parásitos monstruosos en un formato de videojuegos.
+Relatos de la destrución de parásitos monstruosos en un formato de videojuegos.
 
 Beneficio al espectador
 Comó sobrevivir al ataque de parásitos monstruosos.
@@ -11,18 +11,35 @@ Estilo de video
 Formato de videojuegos, con gráficos impactantes y narrativas envolventes.
 
 Descripción
-Relatos de la destrucción de parásitos monstruosos, presentados en un formato similar al de los videojuegos.
-Cada historia te sumergirá en un mundo hostil donde los horripilantes parásitos amenazan la vida de
-sus anfitriones. A través de gráficos impactantes y narrativas envolventes, experimentarás la lucha por
-la supervivencia y la eliminación de criaturas abominables. Se expondrán sus comportamientos malignos y
-efectos aberrantes en sus anfitriones.
-Prepárate para la experiencia intensa y emocionante mientras descubres el secreto de estos seres horripilantes.
+Relatos de la destrucción de parásitos monstruosos, presentados en un formato 
+similar al de los videojuegos.
+Cada historia te sumergirá en un mundo hostil donde los horripilantes parásitos 
+amenazan la vida de sus anfitriones. A través de gráficos impactantes y 
+narrativas envolventes, experimentarás la lucha por la supervivencia y la 
+eliminación de criaturas abominables. Se expondrán sus comportamientos malignos 
+y efectos aberrantes en sus anfitriones.
+Prepárate para la experiencia intensa y emocionante mientras descubres el 
+secreto de estos seres horripilantes.
 
 Estructura del video
-Introducción: presentación de la misión.
-1. Misión: Asesinar a un parásito monstruoso.
-2. Descripción del parásito monstruoso.
-3. Peligrosidad: móvil de su maldad (robar alimento, violar células para reproducirse), análisis de su alevosía y su maligno ensañamiento para provocar dolor.
-4. Lugar de batalla: presentación del entorno donde se encuentra el parásito (intestino, cerebro, piel, sangre).
-5. Elección de armas para enfrentarse a los parásitos.
-6. Definir la estrategia de ataque y defensa.
+Introducción
+Exposición de la maldad de monstruos parasitarios, las enfermedades y muertes 
+que provocan en sus anfitriones.
+
+Asignación y presentación de la misión.
+1. Misión: aniquilar a parásito monstruoso.
+2. Descripción del horroroso parásito maligno.
+3. Peligrosidad: móvil de su maldad (robar alimento, violar células para 
+reproducirse), análisis de su alevosía y su maligno ensañamiento para provocar 
+dolor.
+
+Desarrollo
+Inicia la batalla contra la criatura abominable.
+1. Presentación del entorno donde se realizara la lucha contra el espermento 
+parásito (intestino, cerebro, piel, sangre).
+2. Alistar armas eligidas para enfrentarse al enemigo parasitario. 
+6. Desarrollo de la estrategia de ataque y defensa.
+
+Conclusión
+1. Resumen de la misión y resultados obtenidos.
+2. Consejos para sobrevivir a futuros encuentros con parásitos monstruosos.
