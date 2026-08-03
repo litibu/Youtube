@@ -59,41 +59,69 @@ su merecido?, "cuál es el beneficio?.
 
 
 VIDEO
-1. Plano general, ángulo picado (de arriba hacia abajo), movimiento lento hacia nopalera. 
+1. Plano general, ángulo picado (de arriba hacia abajo), movimiento travelling horizontal más
+giro vertical (tilt).
 Acción: acercandose a nopalera. 
 Música folklorica instrumental tema 1 de fondo. Sonido de teléfono con ringtone campanitas 
 (00:00 - 00:05)
 2. Primer Plano, ángulo normal, movimiento estático, 
 Acción: recolección de nopales del huerto. 
 Texto incrustado en pantalla: "Nopales tiernos". 
-(00:05 - 00:10)
-3. Primer plano, transiciona a plano detalle, movimiento estático. 
+(00:05 - 00:17)
+3. Primer plano, angulo normal, movimiento estático. 
 Acción: limpieza de nopales (retiro de espinas). 
-(00:10 - 00:15)
-4. Plano medio, ángulo normal, movimiento lento hacia brasero. 
-Acción: brasero encendiéndose y el humo subiendo entre las plantas. 
-(00:15 - 00:20)
+(00:17 - 00:22)
+4. Plano medio, ángulo normal, movimiento travelling horizontal hacia el brasero. 
+Acción: brasero encendiéndose se coloca el comal, humo subiendo entre las plantas. 
+(00:22 - 00:27)
 5. Plano medio, ángulo picado, movimiento travelling horizontal más giro horizontal (panorámica). 
 Acción: se colocan nopales sobre la parrilla seguidos de jitomates, cebolla y chiles. 
 Chirrido del carbón ardiendo. 
-(00:20 - 00:25)
+(00:27 - 00:38)
 6. Primer plano, ángulo normal, movimiento travelling horizontal, 
 Acción: verduras asándose, se voltean sobre la parrilla. 
 Texto incrustado en pantalla: "Asar hasta tatemar" 
 Chirrido del carbón ardiendo. 
-(00:25 - 00:30)
+(00:38 - 00:45)
 7. Plano medio, ángulo normal, movimiento estático. 
 Acción: Se retiran del brasero los nopales y se colocan en tabla de madera.
-Se retiran jitomates, cebolla y chiles. Y se colocan en molcajete. 
-(00:30 - 00:35)
-8.
+Se retiran jitomates, cebolla y chiles, se colocan en molcajete y se muelen.
+Se agrega sal.
+(00:45 - 00:50)
+8. Plano medio, ángulo normal, movimiento estático.
+Acción: Se moldean las tortillas y se colocan sobre comal. Tortillas listas se retiran 
+y se colocan en canasta de palma.
+(00:50 - 00:55)
+9. Primer plano, ángulo normal, movimiento zoom out (alejamiento para mostrar el brasero en llamas 
+en el jardín).
+Acción: Se muestra el corte de carne, seguido se muestra brasero. 
+(00:55 - 01:06)
+10. Plano medio, ángulo picado, movimiento travelling horizontal más giro vertical (tilt).
+Acción: Se coloca la carne sobre la parrilla. 
+Chirrido de carne asándose. 
+(01:06 - 01:29)
+11. Primerisimo primer plano, ángulo normal, movimiento horizontal hacia la carne.
+Acción: Se muestra la carne asándose, se voltea y se muestra el corte de carne.
+Chirrido de carne asándose. 
+(01:29 - 01:52)
+12. Plano medio, ángulo normal, movimiento estático.
+Acción: Se corta la carne en tiras.
+(01:52 - 02:03) 
+13. Primer plano, ángulo picado, movimiento travelling vertical hacia el plato de carne y nopales. 
+Acción: Mostrar el armado del plato final: carne asada, nopales asados, salsa de jitomate tatemado 
+y tortillas recién hechas.
+Texto incrustado en pantalla: "Nopales con Carne asada más salsa tatemada y tortillas". 
+(02:03 - 02:26)
+14. Primer plano, ángulo normal, movimiento estático.
+Acción: Se muestra el guardado de porciones de nopal asado y salsa en recipientes de vidrio, 
+colocando en refrigerador.
 
 
 
 
-
-Escena 1. Jardín. Exterior. Mediodía.
 AUDIO
+Escena 1. Jardín. Exterior. Mediodía.
+
 (música de suspenso, rampa de volumen disminuiendo hasta de fondo)
 Descripción de acción:(Voice Over)Platican BETO y BETI en el jardín el domingo a mediodía. 
  
@@ -115,14 +143,15 @@ alma al chamuco? [risas] [intrigada] Cuéntame todo!
 BETO
 Claro! y también te cuento como termino bien "ligerita" en el hospital, la pobrecita.
 (música folklorica aumenta intensidad) (efecto sonoro de suspenso) 
- 
+
+
+
 Escena 2. Jardín. Exterior. Mediodía.
 
-AUDIO
-(música folclórica tema 2 de fondo)
 Descripción de acción:(voice over) Beto y Beti, platican en el jardín cerca al brasero el 
 domingo por a medio día.
- 
+(música folclórica tema 2 de fondo)
+
 BETO
 [dramatico] Según cuenta su familia todo empezó hace dos meses, un domingo Carmelita 
 se subió a la báscula y pegó un grito que hasta alebresto a los perros del vecindario, 
@@ -133,142 +162,123 @@ BETI
 [riendo] [sorpresa] ¡No manches! (admiración) ¿Tan mal estaba?
 
 BETO
-Pues según ella sí. Y esa misma tarde decidió, sin consultar a nadie, que iba a "curarse" comiendo
-puro nopal crudo. Nada más. Tres veces al día.
+Pues según ella sí. Y esa misma tarde decidió, sin consultar a nadie, que iba a "curarse" 
+comiendo puro nopal crudo. Nada más. Tres veces al día.
 
 BETI
-Espera, espera... [dudativa] ¿nopal crudo y ya? ¿Sin nada más? [categórica] ¿Eso no es sano?
+Espera, espera... [dudativa] ¿nopal crudo y ya? ¿Sin nada más? [categórica] Eso no es sano!
  
 BETO
-[disminuye intensidad], [tono técnico] Tu bien sabes que no, Ahí está el detalle.
-BETI
+[disminuye intensidad], [tono técnico] De todos es conocido, que: 
 [formal] [técnico] El nopal es bajo en calorías y alto en fibra, pero... si lo comes solo, 
 sin proteína, aceites ni carbohidratos, por largo tiempo,  tu cuerpo se desnutre.
 
 BETI
 [inquieta] [decepcionada] Que mal..., [intrigada]¿Y qué pasó después?
 
+
+
+
 Escena 3. Jardín. Exterior. Mediodía.
+Beto y Beti, continúan platicando en el jardín cerca al brasero el domingo por a medio día.
 (transición a musica folklórica instrumental tema 2 de fondo)
 (efecto sonoro alerta de mensaje de texto)
 
-
 BETO
-A la semana y media, Carmelita empezó con dolores de estómago horribles. Ardor, náuseas... 
-una noche ya no aguantó y su esposo la llevó de emergencia.
+Semanas despues, Carmelita empezó con dolores de estómago horribles. Ardor, náuseas... 
+y una noche ya no aguantó, llorando le pidio a su esposo que la llevara al hospital.
 
 BETI
 (tapándose la boca, imaginariamente)* ¡Nooo! ¿Fue grave?
 
 BETO
-Gastritis aguda. El médico le explicó que comer nopal crudo en exceso, con el estómago vacío y 
-sin proteína que equilibre la digestión, le irritó todo por dentro. Y para colmo...
+Gastritis aguda. Carmelita antes ya sufria levemente de irritación intestinal.
+El médico la medico y la mando al nutriologo, quien le explicó que comer nopal crudo en exceso, 
+con el estómago vacío y sin otro alimento, le irritó su estomago. Y para colmo...
 
 BETI
-¿Para colmo qué?
+[curiosa] [ansiosa] ¿Para colmo qué?
 
 BETO
-(tono lento, casi cómico-trágico)* En cuanto dejó la dieta del susto, recuperó el doble de peso 
+[tranquilo] [categorico] En cuanto dejó la dieta del nopal, aumento el doble de peso 
 que había bajado. Efecto rebote.
 
 BETI
-(indignada y sorprendida)* ¡Pero eso no es justo! ¿Osea que sufrió todo eso PARA NADA?
+[indignada]  [sorprendida] ¡Pero eso no es justo! ¿Osea que sufrió todo eso para nada?
 
 BETO
-Para nada no, eh. Porque ahí fue cuando por fin pidió ayuda de verdad.
+Quizas obtuvo madures. Porque ahí fue cuando por fin pidió ayuda de verdad.
+
+BETI
+[serena] [interesada] ¿Y qué le dijeron esta vez? ¿Cuál fue el cambio?
+
+BETO
+El nutriólogo del mejor hospital de México, o sea, IMSS Bienestar. Le explicó algo bien simple: 
+el nopal no es magia, es una herramienta. Su fibra ayuda a la saciedad y a regular el azúcar en 
+la sangre, pero necesita ir acompañado de proteína magra para que el cuerpo no entre en modo "alarma".
+
+BETI
+O sea, ¿como... carne, pollo, huevo?
+
+BETO
+Exacto. Le armaron un plan sencillo: nopales asados, una proteína magra, y porciones controladas. 
+Nada de matarse de hambre.
+
+BETI
+[interrumpiendo] Espera!, esto lo leí hace poco: que las encuestas muestran que las 
+dietas basadas en restricción extrema tienen hasta un 80% de efecto rebote en el primer año. 
+Tiene sentido lo que le pasó a Carmelita.
+
+BETO
+Justo por eso ahora te voy a explicar cómo quedó comiendo, para que no le pase a nadie más lo mismo.
 
 
 
 
-**🎙️ AUDIO:**
-> **BETI:** *(con más calma, interesada)* ¿Y qué le dijeron esta vez? ¿Cuál fue el cambio?
->
-> **BETO:** Una nutrióloga le explicó algo bien simple: el nopal no es magia, es una herramienta. Su fibra ayuda a la saciedad y a regular el azúcar en la sangre, pero necesita ir acompañado de proteína magra para que el cuerpo no entre en modo "alarma".
->
-> **BETI:** O sea, ¿como... carne, pollo, huevo?
->
-> **BETO:** Exacto. Le armaron un plan sencillo: nopales asados, una proteína magra, y porciones controladas. Nada de matarse de hambre.
->
-> **BETI:** *(interviniendo con dato)* Espera, esto lo leí hace poco: **las encuestas muestran que las dietas basadas en restricción extrema tienen hasta un 80% de efecto rebote** en el primer año. Tiene sentido lo que le pasó a Carmelita.
->
-> **BETO:** Justo por eso ahora te voy a explicar cómo quedó comiendo, para que no le pase a nadie más lo mismo.
+Escena 4. Jardín. Exterior. Mediodía.
 
----
+BETI
+[animada] Bueno ya, cuéntame, ¿qué es lo que está comiendo Carmelita ahora exactamente?
 
-## BLOQUE 4 — LA SOLUCIÓN COMPLETA / ARMADO DEL PLATO (5:30 – 7:30)
+BETO
+Nopales con carne asada y una salsa de jitomate tatemado más sus tortillas recien hechas. 
+Como debe ser!
 
-**🎬 VIDEO:** Nopales asados se cortan en rajas sobre la tabla. Carne asada se rebana. Salsa tatemada se muele en molcajete a mano (visual rústico, ágil). Armado final del plato sobre una tabla de madera, en el jardín, luz natural.
+BETI
+[imaginando] Mmm, pero ¿no es como... mucha carne para alguien que quiere bajar de peso?
 
-**Texto en pantalla:**
-- "Paso 4: Corte y molienda"
-- "Nopales: cortar en tiras"
-- "Salsa: moler jitomate + ajo + cebolla tatemados en molcajete"
-- "Sal al gusto, opcional: chile serrano tatemado"
-- ""
-- "Paso 5: Armado"
-- "Carne asada + nopales + salsa tatemada"
-- "Porción sugerida: 150g carne / 1 taza de nopales"
+BETO
+Ahí está el mito, Beti. La proteína magra no engorda por sí sola, ayuda a mantener el músculo 
+mientras se pierde grasa. Lo que engorda es el descontrol en las porciones y las salsas cargadas 
+de aceite o crema.
 
-**🎙️ AUDIO:**
-> **BETI:** *(animada)* Bueno ya, cuéntame, ¿qué es lo que está comiendo ahora exactamente?
->
-> **BETO:** Carne asada con nopales a la parrilla y una salsa de jitomate tatemado. Fácil, rápido y de rancho, como debe ser.
->
-> **BETI:** *(critica el platillo, imaginándolo)* Mmm, pero ¿no es como... mucha carne para alguien que quiere bajar de peso?
->
-> **BETO:** Ahí está el mito, Beti. La proteína magra no engorda por sí sola, ayuda a mantener el músculo mientras se pierde grasa. Lo que engorda es el descontrol en las porciones y las salsas cargadas de aceite o crema.
->
-> **BETI:** *(aportando dato técnico)* **La evidencia científica muestra que combinar fibra soluble, como la del nopal, con proteína, aumenta la sensación de saciedad hasta por varias horas.** O sea que sí comes, pero no picas entre comidas.
->
-> **BETO:** Exacto. Y lo mejor: sabe a comida de verdad, no a "dieta".
->
-> **BETI:** *(riendo)* Ok, eso sí me convenció más que el nopal crudo solo, la verdad.
+BETI
+[informando] La evidencia científica muestra que combinar fibra soluble, como la del nopal, 
+con proteína, aumenta la sensación de saciedad hasta por varias horas. O sea que sí comes, pero 
+no picas entre comidas.
 
----
+BETO
+Exacto!. Y lo mejor: sabe a comida de verdad, no a "dieta".
 
-## BLOQUE 5 — CONSERVACIÓN Y CIERRE (7:30 – 9:00)
+BETI
+[risas] Ok, eso sí me convenció más que el nopal crudo solo, la verdad.
 
-**🎬 VIDEO:** Se muestra el guardado de porciones de nopal asado y salsa en recipientes de vidrio, cerrando tapas, colocando en refrigerador.
+BETO
+Y lo bueno es que esto se puede preparar de una vez para varios días. Nopales asados y salsa 
+se guardan bien en el refri.
 
-**Texto en pantalla:**
-- "Conservación"
-- "Nopales asados: refrigerar hasta 3 días en recipiente cerrado"
-- "Salsa tatemada: refrigerar hasta 5 días"
-- "Congelar salsa hasta 1 mes"
-- "Sugerencia: preparar porciones para 3–4 días"
+BETI
+[cuestionando] ¿Y Carmelita ya bajó de peso o sigue en tratamiento?
 
-**🎙️ AUDIO:**
-> **BETO:** Y lo bueno es que esto se puede preparar de una vez para varios días. Nopales asados y salsa se guardan bien en el refri.
->
-> **BETI:** *(pregunta directa)* ¿Y Carmelita ya bajó de peso o sigue en tratamiento?
->
-> **BETO:** Lleva mes y medio así, comiendo balanceado, sin extremos... y ya bajó varias tallas. Sin hospital, sin efecto rebote.
->
-> **BETI:** *(satisfecha)* ¡Wooow! O sea que sí se puede, nada más había que hacerlo bien.
->
-> **BETO:** *(cerrando, tono cálido y cómplice)* Así es. Y bueno, tú que nos ves... ¿ya te pasó algo parecido con alguna dieta extrema? Cuéntanos en los comentarios.
->
-> **BETI:** ¡Y no se les olvide guardar la receta antes de que se les queme el jitomate como a Carmelita casi se le quema la vida!
+BETO
+Lleva mes y medio así, comiendo balanceado, sin extremos... y ya bajó varias tallas. 
+Sin hospital, sin efecto rebote.
 
-*(Música teatral cierra con tono ligero/cómico. Fade out sobre el jardín y el brasero apagándose.)*
+BETI
+[sorprendida] ¡Wooow! O sea que sí se puede, nada más había que hacerlo bien.
 
-**Texto en pantalla final:** "🌵 Receta completa arriba ⬆️ | Sígueme para más chismes con beneficio"
+BETO
+Claro!. Y bueno, que tal esta los nopales con carne asada?
 
----
-
-## LISTA DE INGREDIENTES (para descripción del video)
-
-- 4 nopales grandes
-- 500g de carne para asar (arrachera, res o similar)
-- 3 jitomates
-- 1/2 cebolla
-- 2 dientes de ajo
-- Sal de grano y pimienta al gusto
-- Opcional: chile serrano
-
-## NOTAS DE EDICIÓN
-
-- Música de fondo: tono teatral/dramático tipo "novela", bajar volumen durante diálogo, subir en transiciones.
-- Efectos sonoros sugeridos: sting dramático (revelaciones), tambor de tensión (bloque 2), chisporroteo real del brasero (ambiente constante).
-- Texto en pantalla: tipografía rústica/manuscrita para reforzar ambiente de rancho/jardín.
-- Cortes ágiles en bloques de cocina (2–4 seg por toma); ritmo más pausado en bloques de diálogo dramático.
+BETI
+mmm... Riquisimo!
