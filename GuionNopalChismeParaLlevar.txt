@@ -1,38 +1,35 @@
-Guion del video
-"Adelgazó mi vecina… ¿con dieta del nopal?"
+Guion: "Adelgazó mi vecina… ¿con dieta del nopal?"
+
 Formato: Faceless / doble pista (Audio "Chisme" + Video "Solución")
 Duración estimada: 17 a 23 minutos
  
-Resumen del video
-Chisme (audio): Beto le narra a Bety la historia de la vecina Carmelita, quien cayó en el error de
-hacer una "dieta extrema" a base de nopal crudo matándose de hambre, lo que la llevó al hospital
-por gastritis y efecto rebote. Tras recibir asesoría adecuada, aprendió a combinar la fibra del
-nopal con proteína magra, logrando bajar de peso sanamente.
+Resumen del guion 
+Chisme (audio): Beto le narra a Beti la historia de la vecina Carmelita, quien cayó en el error de
+hacer una "dieta extrema" a base de nopal crudo matándose de hambre, lo que la llevó al hospital.
+Tras recibir asesoría adecuada, aprendió a combinar el nopal con los demás alimentos, logrando 
+bajar de peso sanamente.
  
 Solución (vídeo): Guía práctica para preparar carne asada más nopales asados con salsa de jitomate
-tatemado y tortillas recién hechas. La explicación de los pasos, ingredientes, tiempos y 
-conservación se muestra mediante texto incrustado en pantalla, mientras Bety interviene críticamente 
-con comentarios sobre lo que se cocina y aportando datos científicos sobre la saciedad y la fibra.
+tatemado y tortillas recién hechas. La explicación de la reseta, ingredientes y conservación de lo 
+preparado, se muestra mediante texto incrustado en pantalla.
+Sobre el video, Beti interviene con comentarios breves sobre lo que se cocina.
  
+Objetivo
+Lograr entretenimiento y salud al fomentar el morbo del  mal pasado y la curiosidad de 
+consecuencias futuras.
+
 Estilo
 Mezcla el audio de la narración de un problema o suceso (chisme) y en paralelo el video de la 
 solución (preparación del remedio, su conservación y sugerencia de consumo).
-Su meta es lograr entretenimiento y salud al fomentar el morbo del  mal pasado y la curiosidad de 
-consecuencias futuras.
- 
-El guión se divide en dos columnas conceptuales que corren en paralelo:
-Audio (chisme): diálogo entre Beto y Beti, con efectos sonoros y música de fondo.
-Vídeo (solución): lo que se ve en pantalla (preparación de la receta), con texto incrustado
-(ingredientes, tiempos, cantidades, pasos).
-Beto no narra lo que cocina; solo ocasionalmente Beti reacciona/crítica lo cocinado cuando corresponde.
- 
+
 Estructura del estilo del audio (narración)
-Chisme (audio): narración dramática, apoyado de efectos sonoros y música de fondo.
-La narración es una comunicación entre el chismoso (Beto) con el personaje femenino (Beti) la cual 
-interviene aportando preguntas para desarrollar el chisme  y también con explicación de conceptos técnicos. 
-El chismoso no narra lo que cocina, pero la espectadora Beti sí crítica lo cocinado.
+Problema o suceso, o sea, el chisme (audio): narración dramática, apoyado de efectos sonoros y 
+música de fondo.
+La narración es un diálogo entre Beto (chismoso) y Beti (interlocutora), apoyado con 
+efectos sonoros y música de fondo.  
+Beti solo interviene aportando preguntas para desarrollar el chisme.   
+Beto no narra lo que se cocina, pero la espectadora Beti sí crítica lo cocinado.
  
-Estructura del estilo del video
 Solución (visual): video con la preparación del remedio (solución) con metodología práctica y ágil.
 La explicación del video es mediante texto incrustado (descripción de ingredientes, tiempo, cantidades, 
 procesos).
@@ -57,120 +54,131 @@ su merecido?, "cuál es el beneficio?.
 - Además reacciona al relato expresando emociones como por ejemplo: "¡no es posible!", "esta raro?", 
 "wooow!".
  
-Miniatura youtube 
-Imagen primer plano del remedio terminado (Nopales con carne asada más salsa tatemada y tortillas).
-Texto incrustado en imagen: "Adelgazo!...con dieta del Nopal"
- 
- 
-Bloque 1 Introducción / Gancho Presentación del misterio 
- 
-Escena 1. Jardín. Exterior. Mediodía.
- 
+
+
+
+
 VIDEO
-1. Plano general, ángulo picado (de arriba hacia abajo), movimiento lento hacia nopalera, acción: 
-acercandose a nopalera, música folklorica instrumental de fondo, sonido de teléfono con ringtone 
-campanitas.
-2. Primer Plano, ángulo normal, movimiento estático, acción: recolección de nopales del huerto, 
-continua música folklorica instrumental de fondo. 
-Texto incrustado en pantalla: "Nopales tiernos"
-3. Primer plano, transiciona a plano detalle, movimiento estático, acción: limpieza de nopales (retiro 
-de espinas).
-4. Plano medio, ángulo normal, movimiento estático, acción: brasero encendiéndose y el humo subiendo 
-entre las plantas.
- 
-Descripción de acción:(Transición a música de suspenso)(Voice Over)Platican BETO y BETI en el jardín el 
-domingo a mediodía. 
+1. Plano general, ángulo picado (de arriba hacia abajo), movimiento lento hacia nopalera. 
+Acción: acercandose a nopalera. 
+Música folklorica instrumental tema 1 de fondo. Sonido de teléfono con ringtone campanitas 
+(00:00 - 00:05)
+2. Primer Plano, ángulo normal, movimiento estático, 
+Acción: recolección de nopales del huerto. 
+Texto incrustado en pantalla: "Nopales tiernos". 
+(00:05 - 00:10)
+3. Primer plano, transiciona a plano detalle, movimiento estático. 
+Acción: limpieza de nopales (retiro de espinas). 
+(00:10 - 00:15)
+4. Plano medio, ángulo normal, movimiento lento hacia brasero. 
+Acción: brasero encendiéndose y el humo subiendo entre las plantas. 
+(00:15 - 00:20)
+5. Plano medio, ángulo picado, movimiento travelling horizontal más giro horizontal (panorámica). 
+Acción: se colocan nopales sobre la parrilla seguidos de jitomates, cebolla y chiles. 
+Chirrido del carbón ardiendo. 
+(00:20 - 00:25)
+6. Primer plano, ángulo normal, movimiento travelling horizontal, 
+Acción: verduras asándose, se voltean sobre la parrilla. 
+Texto incrustado en pantalla: "Asar hasta tatemar" 
+Chirrido del carbón ardiendo. 
+(00:25 - 00:30)
+7. Plano medio, ángulo normal, movimiento estático. 
+Acción: Se retiran del brasero los nopales y se colocan en tabla de madera.
+Se retiran jitomates, cebolla y chiles. Y se colocan en molcajete. 
+(00:30 - 00:35)
+8.
+
+
+
+
+
+Escena 1. Jardín. Exterior. Mediodía.
+AUDIO
+(música de suspenso, rampa de volumen disminuiendo hasta de fondo)
+Descripción de acción:(Voice Over)Platican BETO y BETI en el jardín el domingo a mediodía. 
  
 BETO
-[suspenso][íntimo] Oye Beti... ¿Te acuerdas de lavecina, Carmelita?
+[suspenso][íntimo] Oye Beti... ¿Te acuerdas de la vecina, Carmelita?
+
 BETI
 [intrigada]¿La gordita que come dos tamales y pide tres para llevar? [risas]¡Claro que
 me acuerdo! es muy buena onda... [alarmada]¿Qué pasó con ella?
-BETO
-[pausa dramática] [Silencio]Pues adelgazo!...
- 
-BETI
-(música instrumental folklórica) [sorpresa]¡¿Qué?! ¡No es cierto!...,[intrigada] ¿Se operó, consiguió 
-novio, o vendió el alma al chamuco? [risas] [intrigada] Cuéntame todo!
-BETO
-Claro! y también te cuento como termino en el hospital, la pobrecita.
-(música folklorica aumenta) 
- 
 
+BETO
+[pausa dramática] [Silencio]Pues adelgazo!... (efecto sonoro de sorpresa) 
+
+BETI
+(inicia música instrumental folklórica instrumental tema 1 de fondo) 
+[sorpresa]¡¿Qué?! ¡No es cierto!...,[intrigada] ¿Se operó, consiguió novio, o vendió el 
+alma al chamuco? [risas] [intrigada] Cuéntame todo!
+
+BETO
+Claro! y también te cuento como termino bien "ligerita" en el hospital, la pobrecita.
+(música folklorica aumenta intensidad) (efecto sonoro de suspenso) 
+ 
 Escena 2. Jardín. Exterior. Mediodía.
- 
-VIDEO
-1. Primer plano, ángulo normal, movimiento estático, acción: se colocan nopales sobre la parrilla seguidos de 
-jitomates, cebolla y chiles, música instrumental folclórica de fondo, chirrido del carbón ardiendo.
-2. Primer plano, ángulo normal, movimiento lateral, acción: verduras asándose, se voltean sobre la parrilla.
-Texto incrustado en pantalla: "Asar hasta tatemar"
 
-Descripción de acción: (música folclórica de fondo)(voice over)Beto y Beti, platican en el jardín cerca al 
-brasero el domingo por a medio día.
+AUDIO
+(música folclórica tema 2 de fondo)
+Descripción de acción:(voice over) Beto y Beti, platican en el jardín cerca al brasero el 
+domingo por a medio día.
  
 BETO
-Según cuenta su familia todo empezó hace dos meses, un domingo Carmelita se subió a la báscula y pegó un grito 
-que hasta alebresto a los perros del vecindario, como cuando los cohetes de fiestas patronales.
-
-
+[dramatico] Según cuenta su familia todo empezó hace dos meses, un domingo Carmelita 
+se subió a la báscula y pegó un grito que hasta alebresto a los perros del vecindario, 
+como cuando los cohetes de fiestas patronales.
+(efecto sonoro estallido de cohete).
 
 BETI
-(riendo) (sorpresa) ¡No manches! (admiración) ¿Tan mal estaba?
+[riendo] [sorpresa] ¡No manches! (admiración) ¿Tan mal estaba?
+
 BETO
 Pues según ella sí. Y esa misma tarde decidió, sin consultar a nadie, que iba a "curarse" comiendo
 puro nopal crudo. Nada más. Tres veces al día.
+
 BETI
 Espera, espera... [dudativa] ¿nopal crudo y ya? ¿Sin nada más? [categórica] ¿Eso no es sano?
  
 BETO
-(bajando el ritmo, tono técnico) Tu bien sabes que no, Ahí está el detalle.
+[disminuye intensidad], [tono técnico] Tu bien sabes que no, Ahí está el detalle.
 BETI
-(informativa) (técnico) El nopal es bajo en calorías y alto en fibra, sí, pero si lo comes solo, sin proteína 
-y carbohidratos, por largo tiempo,  tu cuerpo se desnutre.
+[formal] [técnico] El nopal es bajo en calorías y alto en fibra, pero... si lo comes solo, 
+sin proteína, aceites ni carbohidratos, por largo tiempo,  tu cuerpo se desnutre.
+
 BETI
-(inquieta) (decepcionada) Que mal..., [intrigada]¿Y qué pasó después?
+[inquieta] [decepcionada] Que mal..., [intrigada]¿Y qué pasó después?
+
+Escena 3. Jardín. Exterior. Mediodía.
+(transición a musica folklórica instrumental tema 2 de fondo)
+(efecto sonoro alerta de mensaje de texto)
+
+
+BETO
+A la semana y media, Carmelita empezó con dolores de estómago horribles. Ardor, náuseas... 
+una noche ya no aguantó y su esposo la llevó de emergencia.
+
+BETI
+(tapándose la boca, imaginariamente)* ¡Nooo! ¿Fue grave?
+
+BETO
+Gastritis aguda. El médico le explicó que comer nopal crudo en exceso, con el estómago vacío y 
+sin proteína que equilibre la digestión, le irritó todo por dentro. Y para colmo...
+
+BETI
+¿Para colmo qué?
+
+BETO
+(tono lento, casi cómico-trágico)* En cuanto dejó la dieta del susto, recuperó el doble de peso 
+que había bajado. Efecto rebote.
+
+BETI
+(indignada y sorprendida)* ¡Pero eso no es justo! ¿Osea que sufrió todo eso PARA NADA?
+
+BETO
+Para nada no, eh. Porque ahí fue cuando por fin pidió ayuda de verdad.
 
 
 
-
-
-## BLOQUE 2 — EL DESENLACE DRAMÁTICO (2:15 – 4:00)
-
-**🎬 VIDEO:** Nopales ya limpios se colocan directamente sobre el brasero de leña. Sonido real de chisporroteo. Toma cenital del asado empezando (carne se prepara al mismo tiempo, sazonándose).
-
-**Texto en pantalla:**
-- "Paso 2: Asado"
-- "Nopales limpios directo a la parrilla"
-- "Sal de grano al gusto"
-- "Tiempo: 6–8 min por lado"
-- "Carne: sazonar con sal y pimienta, reposar 10 min antes de asar"
-
-**🎙️ AUDIO:** *(música teatral sube de intensidad, efecto de "tensión")*
-> **BETO:** A la semana y media, Carmelita empezó con dolores de estómago horribles. Ardor, náuseas... una noche ya no aguantó y su esposo la llevó de emergencia.
->
-> **BETI:** *(tapándose la boca, imaginariamente)* ¡Nooo! ¿Fue grave?
->
-> **BETO:** Gastritis aguda. El médico le explicó que comer nopal crudo en exceso, con el estómago vacío y sin proteína que equilibre la digestión, le irritó todo por dentro. Y para colmo...
->
-> **BETI:** ¿Para colmo qué?
->
-> **BETO:** *(tono lento, casi cómico-trágico)* En cuanto dejó la dieta del susto, recuperó el doble de peso que había bajado. Efecto rebote.
->
-> **BETI:** *(indignada y sorprendida)* ¡Pero eso no es justo! ¿Osea que sufrió todo eso PARA NADA?
->
-> **BETO:** Para nada no, eh. Porque ahí fue cuando por fin pidió ayuda de verdad.
-
----
-
-## BLOQUE 3 — EL GIRO / LA REDENCIÓN (4:00 – 5:30)
-
-**🎬 VIDEO:** Se prepara la salsa: jitomates enteros van directo al brasero para tatemarlos (tomar color negro en la piel). Ajo y cebolla también se asan ligeramente al lado.
-
-**Texto en pantalla:**
-- "Paso 3: Salsa tatemada"
-- "3 jitomates, 1/2 cebolla, 2 dientes de ajo"
-- "Tatemar directo en brasero, 8–10 min, volteando"
-- "Piel debe quedar oscura/ampollada"
 
 **🎙️ AUDIO:**
 > **BETI:** *(con más calma, interesada)* ¿Y qué le dijeron esta vez? ¿Cuál fue el cambio?
