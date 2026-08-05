@@ -4,13 +4,13 @@ Guion
 Subtítulo
 Taenia solium
 
-Escena 1: Introducción
+Escena 1 Introducción
 Plano americano, ángulo contrapicado, movimiento traveling vertical ascendente.
 Acción: Monstruo se mueve amanezante. 
 Música: apertura de suspenso, efectos de terror y tensión.
 (0:00:00 - 0:00:03)
 
-Escena 2: Presentación del monstruo 
+Escena 2 Presentación del monstruo 
 Plano medio, moviento estático.
 Acción: Frente al monstruo aparece rapidamente entre rayos y luces neon el titulo 
 "Taenia solium" ocupando el centro de la pantalla, seguido se deshace a líquido 
@@ -19,7 +19,7 @@ Música de suspenso.
 Efecto sonido telefono sonando tono 8 del iphone
 (0:00:03 - 0:00:11) 
 
-Escena 3: Descripción del objetivo
+Escena 3 Descripción del objetivo
 Plano general, movimiento estático.
 Acción: El monstruo se traslada rapidamente hacia la derecha de la pantalla ocupando media pantalla. 
 Monstruo gira lentamente sobre su eje. Al mismo tiempo aparece en la parte izquierda de la pantalla 
@@ -29,7 +29,7 @@ Rotulos desaparecen derritiendose.
 Música de suspenso.
 (0:00:11 - 0:00:19)
 
-Escena 4: Descripción del monstruo
+Escena 4 Descripción del monstruo
 Plano medio, movimiento zoom in.
 Acción: Aparecen fotos del monstruo ocupando una parte de la pantalla, hasta que se llenan de fotos 
 la pantalla.
@@ -47,10 +47,11 @@ Efecto sonido tono de mensaje.
                         En el barrio le decimos: la lombriz solitaria. 
 (0:00:19 - 0:00:31)
 
-Escena 5: continua descripción del monstruo
+Escena 5 continua descripción del monstruo
 Plano medio, movimiento zoom in.
 Acción: Aparece imagen esquematica de humano con intestino delgado, y se observa al monstruo en el 
-interior del intestino.
+interior del intestino delgado, cisticercosis.
+Música de suspenso tema 2 al fondo.
 
                         BETO
 [técnico] [serio] 
@@ -59,19 +60,36 @@ interior del intestino.
                         de longitud, con nada de beneficio al huesped.    
 (0:00:31 - 0:00:43)
 
-Escena 6: Peligrosidad del monstruo
+Escena 6 Peligrosidad del monstruo
 Primer plano, ángulo normal, movimiento traveling horizontal lento más giro horizontal.
-Acción: Imagen de infección humana: cisticercosis y neurocisticercosis.
+Acción: Imagen de infección humana cisticercosis, posterior  neurocisticercosis.
 Música de suspenso tema 2 al fondo.
 
                         BETO
-[dramático] [alarmante]
-                        La peligrosidad de este aberrante parásito es tan maligna que
-                        le es posible trasladarse al cerebro causando neurocisticercosis, 
-                        que puede provocar ataques epilépticos, dolores de cabeza severos, 
-                        demencia y en casos extremos la muerte.
+[dramático] [técnico]
+                        La peligrosidad de este aberrante parásito es tan maligna que además de vivir en el 
+                        intestino delgado, puede trasladarse al cerebro e invadirlo causando 
+                        neurocisticercosis. Y entonces... el pobre humano sufre de dolores de cabeza, 
+                        confusion, mareos, ataques epilépticos, demencia y hasta la... muerte.
+(rampa en aumento de musica de suspenso tema 2) 
+(efecto sonido gemidos de dolor) 
 (0:00:43 - 0:00:59)
 
+Escena 7 Patogénesis
+Plano medio, ángulo normal, movimiento estático.
+Acción: Presentación en imagenes esquematicas del proceso de infección de Taenia solium en humano.
+Música dramatica instrumental tema 3 al fondo.
 
+                        BETO
+[serio] [técnico] 
+                        El monstruo parásito nos puede invador por dos formas: 
+                        1. Ingerir carne de cerdo o res mal cocida que contiene larvas infecciosas, o por 
+                        2. contacto directo con las heces de una persona infectada, o sea al comer
+                        huevos que estan dentro del polvo seco de heces humanas y que son transportadas 
+                        por el aire y/o insectos.
+                        En el organismo humano los huevos maduran a larva en el intestino delgado, donde 
+                        el parásito adulto se adhiere a la pared intestinal utilizando su rostelo con ventosas 
+                        y ganchos.
+(efecto sonido de terror) 
 
 
