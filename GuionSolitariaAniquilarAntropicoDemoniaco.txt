@@ -1,27 +1,29 @@
-Guion "Aniquilar Antrópico Demoniaco: Taenia solium"
-Título: "Taenia solium"
+Guion
+"Aniquilar Antrópico Demoniaco: Taenia solium"
+
+Subtítulo
+Taenia solium
 
 Escena 1: Introducción
-Plano americano, ángulo contrapicado, movimiento travelling vertical
-ascendente.
+Plano americano, ángulo contrapicado, movimiento traveling vertical ascendente.
 Acción: Monstruo se mueve amanezante. 
 Música: apertura de suspenso, efectos de terror y tensión.
 (0:00:00 - 0:00:03)
 
 Escena 2: Presentación del monstruo 
 Plano medio, moviento estático.
-Acción: Frente al monstruo aparece rapidamente entre rayos y luces neon 
-el titulo "Taenia solium" ocupando el centro de la pantalla, seguido se 
-deshace a líquido escurriendo al fondo de la pantalla. 
+Acción: Frente al monstruo aparece rapidamente entre rayos y luces neon el titulo 
+"Taenia solium" ocupando el centro de la pantalla, seguido se deshace a líquido 
+escurriendo al fondo de la pantalla. 
 Música de suspenso.
+Efecto sonido telefono sonando tono 8 del iphone
 (0:00:03 - 0:00:11) 
 
 Escena 3: Descripción del objetivo
 Plano general, movimiento estático.
-Acción: El monstruo se traslada rapidamente hacia la derecha de la pantalla
-ocupando media pantalla. Monstruo gira sobre su eje lentamente.
-Al mismo tiempo aparece en la parte izquierda de la pantalla el rotulo de 
-"Misión: Destrucción total del monstruo "Taenia solium" y seguido el 
+Acción: El monstruo se traslada rapidamente hacia la derecha de la pantalla ocupando media pantalla. 
+Monstruo gira lentamente sobre su eje. Al mismo tiempo aparece en la parte izquierda de la pantalla 
+el rotulo de "Misión: Destrucción total del monstruo "Taenia solium" y seguido el 
 "objetivo: Erradicar cisticercosis o neurocisticercosis en lindas mujeres",
 Rotulos desaparecen derritiendose. 
 Música de suspenso.
@@ -29,41 +31,47 @@ Música de suspenso.
 
 Escena 4: Descripción del monstruo
 Plano medio, movimiento zoom in.
-Acción: Aparecen fotos del monstruo ocupando una parte de 
-la pantalla, hasta que se llenan de fotos la pantalla.
+Acción: Aparecen fotos del monstruo ocupando una parte de la pantalla, hasta que se llenan de fotos 
+la pantalla.
 Música de suspenso tema 1 al fondo.
+Efecto sonido tono de mensaje.
+(0:00:19 - 0:00:31)
 
-BETO
-(voice over) [misterio] [intriga] Este gusano parásito maligno, conocido 
-por lindas doctoras como: (silencio) Taenia solium (efecto sonido de terror). 
-(rampa música de suspenso tema 1 al fondo) En le barrio le decimos: 
-la lombriz solitaria. 
+                        BETO
+(voice over) [misterio] [intriga] 
+                        Este gusano parásito maligno, conocido por lindas doctoras como: 
+(música en silencio) 
+                        Taenia solium 
+(efecto sonido de terror) 
+(rampa música de suspenso tema 1 al fondo) 
+                        En el barrio le decimos: la lombriz solitaria. 
 (0:00:19 - 0:00:31)
 
 Escena 5: continua descripción del monstruo
 Plano medio, movimiento zoom in.
-Acción: Aparece imagen esquematica de humano con intestino delgado, y se 
-observa al monstruo en el interior del intestino.
+Acción: Aparece imagen esquematica de humano con intestino delgado, y se observa al monstruo en el 
+interior del intestino.
 
-BETO
-[técnico] [serio] A este monstruo parásito le gusta hospedarse sin 
-pagar renta en el intestino delgado de los humanos benditos y llega a 
-crecer hasta 4 metros de longitud, con nada de beneficio al huesped.    
+                        BETO
+[técnico] [serio] 
+                        A este monstruo parásito le gusta hospedarse sin pagar renta en el 
+                        intestino delgado de los humanos y llega a crecer hasta 4 metros 
+                        de longitud, con nada de beneficio al huesped.    
 (0:00:31 - 0:00:43)
 
 Escena 6: Peligrosidad del monstruo
-Primer plano, ángulo normal, movimiento traveling horizontal más giro horizontal.
-Acción: Imagen de la infección humana: cisticercosis.
+Primer plano, ángulo normal, movimiento traveling horizontal lento más giro horizontal.
+Acción: Imagen de infección humana: cisticercosis y neurocisticercosis.
 Música de suspenso tema 2 al fondo.
 
+                        BETO
+[dramático] [alarmante]
+                        La peligrosidad de este aberrante parásito es tan maligna que
+                        le es posible trasladarse al cerebro causando neurocisticercosis, 
+                        que puede provocar ataques epilépticos, dolores de cabeza severos, 
+                        demencia y en casos extremos la muerte.
+(0:00:43 - 0:00:59)
 
 
-
-
-
-
-
-
-Peligrosidad.
 
 
