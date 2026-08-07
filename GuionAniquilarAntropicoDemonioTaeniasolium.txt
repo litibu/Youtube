@@ -5,34 +5,41 @@ Subtítulo
 Taenia solium
 
 Escena 1 Introducción
-Plano americano, ángulo contrapicado, movimiento traveling vertical ascendente.
-Acción: Monstruo se mueve amanezante. 
+Plano americano, ángulo normal, movimiento traveling vertical ascendente.
+Acción: Desde el fondo el parásito monstruoso amanezante se mueve rapidamente 
+hacia la cámara ocupando todo el campo visual.
 Música: apertura de suspenso, efectos de terror y tensión.
 (0:00:00 - 0:00:03)
 
 Escena 2 Presentación del monstruo 
 Plano medio, moviento estático.
-Acción: Frente al monstruo aparece rapidamente entre rayos y luces neon el titulo 
-"Taenia solium" ocupando el centro de la pantalla, seguido se deshace a líquido 
-escurriendo al fondo de la pantalla. 
+Acción: Frente al monstruo aparece gotas viscosas salpicantes hacia el centro y derecha 
+de la pantalla, formando poco a poco el titulo: "Taenia solium", se desplaza el titulo 
+hacia el centro de la pantalla, permanece el titulo palpitante durante 4 segundos, 
+seguido el titulo se deshace en un líquido viscoso escurriendo al fondo de la pantalla. 
 Música de suspenso.
 Efecto sonido telefono sonando tono 8 del iphone
 (0:00:03 - 0:00:11) 
 
 Escena 3 Descripción del objetivo
 Plano general, movimiento estático.
-Acción: El monstruo se traslada rapidamente hacia la derecha de la pantalla ocupando media pantalla. 
-Monstruo gira lentamente sobre su eje. Al mismo tiempo aparece en la parte izquierda de la pantalla 
-el rotulo de "Misión: Destrucción total del monstruo "Taenia solium" y seguido el 
-"objetivo: Erradicar cisticercosis o neurocisticercosis en lindas mujeres",
-Rotulos desaparecen derritiendose. 
+Acción: El monstruo se traslada rapidamente hacia la derecha de la pantalla ocupando 
+media pantalla. El monstruo gira lentamente sobre su eje (como en el menú de visualización 
+de personajes de un videojuego).
+Al mismo tiempo aparece en la parte izquierda de la pantalla, se despriega una interfaz
+holográfica con texto mecanografiado que dice: "Misión: Destrucción total del monstruo 
+"Taenia solium", "objetivo: Erradicar cisticercosis o neurocisticercosis en lindas 
+mujeres bailadoras", los rótulos brillan pulsantes 4 segundos y luego desaparecen 
+derritiendose viscosamente hacia abajo. 
 Música de suspenso.
 (0:00:11 - 0:00:19)
 
 Escena 4 Descripción del monstruo
-Plano medio, movimiento zoom in.
-Acción: Aparecen fotos del monstruo ocupando una parte de la pantalla, hasta que se llenan de fotos 
-la pantalla.
+Plano medio, movimiento zoom in lento, ángulo normal.
+Acción: Comienzan a aparecen recuadros holográficos con fotos reales y microscopicas del 
+parásito Taenia solium, los escólices y quistes: Las fotos brotan ocupando primero una 
+sección de la pantalla hasta saturarla por completo con un efecto de "glitch" (distorción
+visual).
 Música de suspenso tema 1 al fondo.
 Efecto sonido tono de mensaje.
 (0:00:19 - 0:00:31)
