@@ -1,4 +1,4 @@
 {
-  "editor.lineNumbers": "off",
-  "editor.unicodeHighlighting.enabled": false,
+  "editor.lineNumbers": "on",
+  "editor.unicodeHighlighting.enabled": false
 }
