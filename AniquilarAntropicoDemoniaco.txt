@@ -3,7 +3,6 @@ Canal de youtube
 @AniquilarAntropicoDemoniaco
 
 Temática
-
 Relatos dramaticos de aniquilación de parásitos demoniacos, apoyado en la 
 insercción de gráficos muy coloridos mezclado con imagenes sobresaldas 
 en horror del villano microscopico.
@@ -19,11 +18,31 @@ Aprender a sobrevivir al ataque de parásitos monstruosos.
 Evitar contagiar a otros de parásitos malignos.
 
 Estilo de video
-Narración (voice over) del personaje Beto (técnico, tranquilo, seguro) y 
-citas breves ejemplo ¿como me libro de eso?, ¿a que santo le rezo? del 
-personaje afectada Beti, con efectos de sonido dramaticos y música de 
-fondo de suspenso.
+Narración (voice over) del personaje Beto (mentor) y Beti quien participa con 
+citas breves ejemplo: ¿como me libro de eso?, ¿a que santo le rezo? 
+adicionada con efectos de sonido dramaticos y música de suspenso de fondo.
 
+Personajes
+Beto: adulto, seguro, tranquilo, decidido, se expresa de forma técnica,
+es Ingeniero Bioquímico con especialidad en microbiologia de los alimentos.
+
+Beti: Joven, alegre, divertida, le gusta cantar y bailar, es sentimental y 
+un poco apacionada, con el nivel de estudio basicos de bachillerato o 
+preparatoria. 
+
+Personajes secundarios
+Se define su rol dentro del capitulo: hija, esposo, doctor, vecina, amiga.
+Pero se mantiene indifinido su nombre.
+
+Nota de producción
+Todala información médica, microbiologica (patogénesis, etiología, morfología)
+debe apegarse a fuentes médicas, no se inventa nada sobre estos referentes. 
+El horror de las imagenes no son gore explícito, se resalta el horror mediante
+recursos estilizados (luces, animación).
+Es importante mantener una identidad visual durante todo el video, o sea, 
+prevalece una paleta de colores cálida y saturada para la etapa 1 Ambiente ordinario 
+y etapa 12 Regreso con el elixir. Y una paleta de colores fría y desaturada con 
+acentos rojos y verdosos para los villanos. 
 
 
 Estructura del video
