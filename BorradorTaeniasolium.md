@@ -2,37 +2,32 @@ Episodio: "Lombris Solitaria (Taenia solium)"
 
 Canal youtube: Aniquilar antropico Demoniaco
 @AniquilarAntropicoDemoniaco
+
 Guion (Técnico + Literario)
 
 FICHA TÉCNICA
-Villano
-Taenia solium (solitaria del cerdo)
-Duración estimada
-20:30 – 21:00 min
+Villano: Taenia solium (Lombris solitaria)
+Duración estimada: 20:30 – 21:00 min
 Personajes
-BETO (V.O. — narrador/mentor) · BETI (protagonista/anfitriona) · la esposo (ver nota) · la hija · la doctora · TAENIA (voz distorsionada del villano)
+BETO (V.O. — narrador/mentor) 
+BETI (protagonista/anfitriona)  
+esposo, hija, doctora 
+
 Formato de bloque
 En cada escena, la descripción de PLANO / VISUAL / GRÁFICOS antecede siempre a la descripción literaria (diálogo y acción)
 
-
 Nota de estilo: los personajes secundarios (esposo, hija, doctora) se identifican únicamente por su rol, sin nombre propio, tal como se solicitó.
+
 Convenciones de plano y cámara
-Abreviatura
-Significado
-PG
-Plano General — ubica el entorno completo
-PA
-Plano Americano — de rodillas hacia arriba
-PM
-Plano Medio — de cintura hacia arriba
-PP
-Primer Plano — rostro completo
-PPP
-Primerísimo Primer Plano — encuadre muy cerrado (ojos, boca, detalle)
-POV
-Punto de vista — cámara subjetiva del personaje
-Zoom-in micro
-Acercamiento estilo macrofotografía animada a nivel celular/microscópico
+Abreviatura - Significado
+PG - Plano General — ubica el entorno completo
+PA - Plano Americano — de rodillas hacia arriba
+PM - Plano Medio — de cintura hacia arriba
+PP - Primer Plano — rostro completo
+PPP - Primerísimo Primer Plano — encuadre muy cerrado (ojos, boca, detalle)
+POV - Punto de vista — cámara subjetiva del personaje
+Zoom-in micro - Acercamiento estilo macrofotografía animada a nivel celular/microscópico
+
 
 
 
