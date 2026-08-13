@@ -16,7 +16,7 @@ esposo, hija, doctora
 Formato de bloque
 En cada escena, la descripción de PLANO / VISUAL / GRÁFICOS antecede siempre a la descripción literaria (diálogo y acción)
 
-Nota de estilo: los personajes secundarios (esposo, hija, doctora) se identifican únicamente por su rol, sin nombre propio, tal como se solicitó.
+Nota de estilo: los personajes secundarios (esposo, hija, doctora) se identifican únicamente por su rol, sin nombre propio.
 
 Convenciones de plano y cámara
 Abreviatura - Significado
@@ -32,80 +32,115 @@ Zoom-in micro - Acercamiento estilo macrofotografía animada a nivel celular/mic
 
 
 COLD OPEN — (00:00 – 00:50)
-PLANO / VISUAL: PP de monitor hospitalario + PPP de ojo de Beti. Luz fluorescente parpadeante, paleta desaturada con acentos rojos. CÁMARA: mano, temblor sutil. AUDIO/MÚSICA/SFX: bip de monitor, respiración entrecortada. DURACIÓN: 20s
+**Escena 1**
+PLANO / VISUAL: PP de monitor hospitalario + PPP de ojo de Beti. Luz fluorescente parpadeante, paleta desaturada 
+con acentos rojos. CÁMARA: mano, temblor sutil. 
+AUDIO/MÚSICA/SFX: bip de monitor, respiración entrecortada. DURACIÓN: 9s
 
 (Fundido desde negro.)
 
-BETI (V.O., entrecortada, con miedo): "Yo pensaba que era cansancio. Nada más. ¿Cómo iba a saber que algo se estaba comiendo mi vida... desde adentro?"
+**Escena 2**
+BETI (Voice Over, entrecortada, con miedo): "Pensaba que estaba cansada, o que estaba estresada... algo normal. 
+¿Cómo iba a saber que un parásito se estaba alimentando de mi cuerpo... dentro de mis tripas?"
 
 
-
-PLANO / VISUAL: corte seco a negro. Golpe de música. AUDIO/MÚSICA/SFX: latido acelerado que se corta de golpe; acorde disonante grave. DURACIÓN: 15s
+PLANO / VISUAL: corte seco a negro. Golpe de música. 
+AUDIO/MÚSICA/SFX: latido acelerado que se corta de golpe; acorde disonante grave. DURACIÓN: 11s
 
 (Silencio tenso tras el corte.)
 
 
-
-PLANO / VISUAL: logo animado del canal, textura orgánica goteando líquido verdoso; tipografía que se retuerce como gusanos. CÁMARA: zoom-in lento al título. TEXTO EN PANTALLA: "TAENIA SOLIUM: EL DEVORADOR SILENCIOSO" DURACIÓN: 15s
+**Escena 3**
+PLANO / VISUAL: logo animado del canal, textura orgánica goteando líquido verdoso; tipografía que se 
+retuerce como gusanos. 
+CÁMARA: zoom-in lento al título. TEXTO EN PANTALLA: "Lombris Solitaria, Taenia solium" DURACIÓN: 11s
 
 
 ACTO I
 ETAPA 1 — Ambiente ordinario (00:50 – 02:30)
-PLANO / VISUAL: PG amanecer del pueblo semirrural; toma baja tipo dron sobre el corral; gallo, luz dorada. CÁMARA: dron/grúa descendente. AUDIO/MÚSICA/SFX: música ambiental alegre, gallos, trastes de cocina. TEXTO EN PANTALLA: "ANTES..." DURACIÓN: 30s
+**Escena 4**
+PLANO / VISUAL: PG amanecer del pueblo semirrural; toma baja tipo dron sobre el corral; gallo, luz dorada. 
+CÁMARA: dron/grúa descendente. 
+AUDIO/MÚSICA/SFX: música ambiental alegre, gallos, trastes de cocina. 
+TEXTO EN PANTALLA: "ANTES..." DURACIÓN: 13s
 
-(Beti, 34 años, se levanta antes que el sol.)
+(Beti, 34 años, se levanta temprano). 
 
-BETO (V.O., cálido, cercano): "Ella es Beti. Como todos los días, se levanta antes que el sol. Cría un par de cerdos en el traspatio de la casa —una tradición que heredó de su madre—, prepara el desayuno de su familia y, a mediodía, ayuda en el puesto de comida de su tía, ahí donde se venden los mejores tacos de canasta del pueblo. Una rutina perfecta. Un mundo en calma. Beti no lo sabe todavía, pero ese mundo está a punto de recibir una visita que lleva más de tres mil años perfeccionando el arte de pasar desapercibida."
+BETO (Voice Over, cálido, cercano): "Ella es Beti. Como todos los días, se levanta temprano. 
+Cría un par de cerditos en patio de la casa —una tradición de la comunidad—, prepara el desayuno de su familia y, 
+a mediodía, ayuda en un puesto de comida, ahí donde venden los mejores tacos del pueblo. 
+Un día normal. Todo en calma. Beti no lo sabe todavía, pero esta a punto de recibir una desapercibida visita maligna". 
 
+PLANO / VISUAL: PM cocina, PA familia desayunando; colores cálidos y saturados, estética de "vida normal". 
+CÁMARA: steadicam, paneos suaves. DURACIÓN: 13s
 
-
-PLANO / VISUAL: PM cocina, PA familia desayunando; colores cálidos y saturados, estética de "vida normal". CÁMARA: steadicam, paneos suaves. DURACIÓN: 50s
-
+**Escena 5**
 (La esposa —Beti— prepara el desayuno; su esposo entra bostezando; su hija corre con la mochila del colegio.)
 
-BETI (a cuadro, alegre): "¡Ándale, que se va a enfriar! Hoy toca carnitas de las buenas, las que preparó mi tío allá en el rancho."
+BETI (a cuadro, alegre): "¡Come, que se va a enfriar! A propósito, hoy toca comer a medio día carnitas de las buenas, 
+las que prepara una amiga allá en el otro rancho."
 
+**Escena 6**
+PLANO / VISUAL: PM Beti sonriente sirviendo comida; foco en el plato de carnitas. 
+CÁMARA: fija, leve dolly-in. DURACIÓN: 11s
 
-
-PLANO / VISUAL: PM Beti sonriente sirviendo comida; foco en el plato de carnitas. CÁMARA: fija, leve dolly-in. DURACIÓN: 20s
-
-(El esposo y la hija comen con gusto, ajenos a lo que viene.)
+(Esposo e hija comen con gusto, ajenos a lo que viene.)
 
 
 ETAPA 2 — Llamada a la aventura (02:30 – 04:45)
-PLANO / VISUAL: PG rancho del tío, PM destazado de cerdo criado en libertad, sin inspección veterinaria; ambiente rústico, tonos terrosos. CÁMARA: al hombro, estilo documental. TEXTO EN PANTALLA: "EL DETONANTE" DURACIÓN: 30s
+**Escena 7**
+PLANO / VISUAL: PG rancho de la amiga, PM destazado de cerdo criado en libertad, sin inspección veterinaria; 
+ambiente rústico, tonos terrosos. 
+CÁMARA: al hombro, estilo documental. 
+TEXTO EN PANTALLA: "EL DETONANTE" DURACIÓN: 11s
 
-BETO (V.O.): "El cerdo del tío de Beti creció libre, comiendo de lo que encontraba en el suelo... incluido lo que no debía. Nadie lo revisó. Nadie lo certificó. Y en su carne, invisibles a simple vista, viajan pequeñas burbujas del tamaño de un grano de arroz."
+BETO (Voice Over): "El cerdo de la amiga de Beti creció libre, comiendo de lo que encontraba en el suelo... 
+incluido lo que no debía. Nadie lo revisó. Nadie lo certificó. Y en su cuerpo, su carnes, invisibles a simple vista, 
+viajan minusculas particulas del tamaño de un granito de arena"
 
 
-
-PLANO / VISUAL: zoom-in microscópico a la fibra muscular del cerdo; animación 3D estilizada del cisticerco translúcido y pulsante, con el escólex enroscado y su corona de ganchos. CÁMARA: zoom digital progresivo, "viaje al interior". AUDIO/MÚSICA/SFX: música de horror creciente, sonido húmedo/orgánico. TEXTO EN PANTALLA: "CISTICERCO — larva de Taenia solium" DURACIÓN: 45s
+**Escena 8**
+PLANO / VISUAL: zoom-in microscópico a la fibra muscular del cerdo; animación 3D estilizada del cisticerco translúcido y 
+pulsante, con el escólex enroscado y su corona de ganchos. 
+CÁMARA: zoom digital progresivo, "viaje al interior". 
+AUDIO/MÚSICA/SFX: música de horror creciente, sonido húmedo/orgánico. 
+TEXTO EN PANTALLA: "CISTICERCO — larva de Taenia solium" DURACIÓN: 23s
 
 (Dentro del músculo, la larva espera, latente.)
 
+**Escena 9**
+PLANO / VISUAL: PPP del escólex animado; ganchos con resplandor rojo amenazante. 
+CÁMARA: fija, luz pulsante. 
+AUDIO/MÚSICA/SFX: voz distorsionada. DURACIÓN: 11s
+
+Taenia solium (voz distorsionada, susurrante, gutural): "Comeme... Comeme..."
 
 
-PLANO / VISUAL: PPP del escólex animado; ganchos con resplandor rojo amenazante. CÁMARA: fija, luz pulsante. AUDIO/MÚSICA/SFX: voz distorsionada. DURACIÓN: 15s
-
-TAENIA (voz distorsionada, susurrante, gutural): "Aquí dentro... esperando. Solo necesito que el fuego no llegue lo suficientemente fuerte..."
-
-
-
-PLANO / VISUAL: PM cocina de Beti, corte rápido entre sartén y reloj mostrando poco tiempo de cocción; toma cenital de la sartén. AUDIO/MÚSICA/SFX: chisporroteo de aceite, música tensa de fondo. TEXTO EN PANTALLA: "¿Bien cocido?" (parpadeante) DURACIÓN: 30s
+**Escena 10**
+PLANO / VISUAL: PM cocina de Beti, corte rápido entre sartén y reloj mostrando poco tiempo de cocción; 
+toma cenital de la sartén. 
+AUDIO/MÚSICA/SFX: chisporroteo de aceite, música tensa de fondo. 
+TEXTO EN PANTALLA: "¿Bien cocido?" (parpadeante) DURACIÓN: 23s
 
 (La carne se dora por fuera; el centro sigue rosado.)
 
 
+**Escena 11**
+PLANO / VISUAL: PM familia comiendo en cámara lenta; bocado en slow motion, iluminación dramática. 
+CÁMARA: lenta, dolly-in. 
+AUDIO/MÚSICA/SFX: acorde de tensión sostenido. DURACIÓN: 19s
 
-PLANO / VISUAL: PM familia comiendo en cámara lenta; bocado en slow motion, iluminación dramática. CÁMARA: lenta, dolly-in. AUDIO/MÚSICA/SFX: acorde de tensión sostenido. DURACIÓN: 15s
-
-BETO (V.O., más serio): "Ese día, sin saberlo, tres personas invitaron a un enemigo microscópico a instalarse en su casa."
+BETO (Voice Over, más serio): "Ese día, sin saberlo, Beti y su familia aceptaron inconcientes a un enemigo 
+microscópico a instalarse en sus cuerpos."
 
 
 ETAPA 3 — Rechazo de la llamada (04:45 – 05:45)
-PLANO / VISUAL: PM baño, PP rostro de Beti; luz fría de baño. CÁMARA: fija. TEXTO EN PANTALLA: "SEMANAS DESPUÉS" DURACIÓN: 30s
+**Escena 12**
+PLANO / VISUAL: PM baño, PP rostro de Beti; luz fría de baño. 
+CÁMARA: fija. TEXTO EN PANTALLA: "SEMANAS DESPUÉS" DURACIÓN: 17s
 
-(Beti observa algo extraño en el papel higiénico: segmentos blancos y planos que se mueven ligeramente.)
+(Beti observa algo extraño en el papel higiénico desechado: puntos cremosos y planos que parecen moverse 
+ligeramente.)
 
 BETI (confesionario, incómoda, casi con risa nerviosa): "O sea... yo vi eso y dije 'no, no puede ser'. A lo mejor comí algo que no me cayó bien. ¿Un parásito? ¿A mí? Yo me siento bien, nomás traigo una molestadera en la panza, pero nada grave. Eso les pasa a otros, no a mí."
 

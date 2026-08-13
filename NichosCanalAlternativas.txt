@@ -27,6 +27,11 @@ Mezcla de imagenes y animaciones muy coloridas y dinamicas.
 Incluye imagenes de onomatopeyas de pensamiento o sonidos.
 Construcción de un mundo, en determinada ciudad, en un barrio, con una escuela,
 con un bar y personajes principales como secundarios. Elenco finito. 
+Una alternativa de estilo para este canal puede ser crear un avatar de mi imagen personal 
+y posterior modificar su rostro y complección para cada personaje (edad, complección, 
+corte de cabello, etc.)
+
+
 
 Estructura
 Temporada, capitulos autoclusivos, especiales (suceso que afecta a todo el barrio:
@@ -49,6 +54,7 @@ Todos los eventos estan conectados, causa - efecto.
 Todos los hechos deben ser creibles dentro de las reglas del mundo narrado. 
 Siempre surge el error o defecto del protagonista que es parte de lo que 
 desencadena el su caída o conflicto. 
+
 Existe un giro repentino en la fortuna del personaje, la situación se 
 invierte drasticamente. 
 Se presenta la revelación o reconocimiento del presonaje ante la verdad oculta
