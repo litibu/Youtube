@@ -12,6 +12,10 @@ MADRE (74 años): Madre de Beti, abuela tradicionalista y protectora del negocio
 DOCTORA: Médico de urgencias que atiende la neurocisticercosis.
 VECINA: Cliente conflictiva del barrio.
 PROVEEDOR: Repartidor de verduras del campo.
+
+
+
+
 COLD OPEN — (00:00 – 00:50)
 Escena 1 
 PLANO / VISUAL: PP de monitor clínico con ritmo cardíaco + PPP de ojo de Beti abriéndose de golpe, desenfocado. Luz de hospital fluorescente parpadeante, tonos fríos desaturados con sombras duras. 
@@ -25,6 +29,7 @@ Filtro base: High contrast, paleta desaturada fría
 Filtro especial: Diffusion sutil (efecto neblinoso)
 Tipo de movimiento: Normal motion
 Movimiento de cámara: Handheld sutil con micro-temblor
+
 Escena 2 
 PLANO / VISUAL: Corte seco a pantalla en negro absoluto. 
 CÁMARA: Estática. 
@@ -38,6 +43,7 @@ Filtro especial: Ninguno
 Tipo de movimiento: Static
 Movimiento de cámara: Fija
 BETI (Voice Over, quebrada, asustada, susurrando): "Sostengo sola a mi hija y a mi mama… lo di todo cocinando desde casa para mantenerlas unidas... ¿Cómo iba a saber que un maldito parásito demoníaco invisible entraría por mi cocina y terminaría hospedándose en mi cuerpo, en mi   cerebro?"
+
 Escena 3 
 PLANO / VISUAL: Logotipo animado del canal en movimiento orgánico 3D. El logotipo gotea un fluido verdoso neón brillante que carcome el fondo; las letras del título se retuercen lentamente como gusanos planos blanquecinos. 
 CÁMARA: Zoom-in digital lento y progresivo hacia las letras. 
@@ -51,6 +57,9 @@ Filtro base: Vibrant colors (verde neón, púrpura)
 Filtro especial: Diffusion (glow orgánico)
 Tipo de movimiento: Normal motion
 Movimiento de cámara: Zoom-in progresivo continuo
+
+
+
 ACTO I
 ETAPA 1 — Ambiente ordinario (00:50 – 02:30)
 Escena 4
@@ -66,6 +75,7 @@ Filtro especial: Diffusion (glow suave de luz solar)
 Tipo de movimiento: Normal motion
 Movimiento de cámara: Steadicam en paneo horizontal lento
 BETO (Voice Over, tono científico, pausado y empático): "Ella es Beti. Joven, trabajadora y el único sostén de su hogar. Tras el abandono de su esposo, Beti convirtió la cocina de su casa en un pequeño taller de comida casera para vender. Con ese esfuerzo diario mantiene los estudios de su hija de diecinueve años y cuida a su anciana madre. Su negocio es su orgullo... pero también un campo de batalla diario contra el cansancio y las deudas."
+
 Escena 5 
 PLANO / VISUAL: PM en el comedor contiguo a la cocina. La hija de Beti está sentada con libros de universidad esparcidos, mirando su celular con recelo. Beti, con un delantal manchado, le sirve un plato de sopa caliente. La abuela limpia cubiertos al fondo en la penumbra. 
 CÁMARA: Fija en plano medio. 
@@ -83,10 +93,6 @@ MADRE (interviniendo desde atrás con voz temblorosa): "¡y cuando vamos a conoc
 HIJA (levantándose abruptamente, tomando su mochila): "¡Ya no quiero oír sus sermones! ¡Él me ama y piensa sacarme de aquí! ¡Ya no quiero esta pobreza!" (la hija de Beti sale azotando la puerta).
 
 
-
-
-
-
 Escena 6 
 PLANO / VISUAL: PP del rostro de Beti que se queda inmóvil, mirando la puerta cerrada. Una lágrima resbala por su mejilla cansada. Al fondo, las ollas de comida siguen hirviendo, liberando bocanadas de vapor blanco. 
 CÁMARA: Dolly-in lento y progresivo hacia sus ojos desolados. 
@@ -99,6 +105,9 @@ Filtro especial: Diffusion sutil
 Tipo de movimiento: Normal motion
 Movimiento de cámara: Dolly-in lento
 BETO (Voice Over): "La tensión familiar y la urgencia económica ciegan a veces a los más precavidos. Beti se encuentra atrapada en un torbellino de emociones y deudas que pagar a fin de mes. Un escenario de vulnerabilidad perfecto... para el inicio de una invasión silenciosa."
+
+
+
 ETAPA 2 — Llamada a la aventura (02:30 – 04:45)
 Escena 7 
 PLANO / VISUAL: PG de la cocina. De repente, Beti abre la llave del fregadero y solo sale un goteo marrón seguido de un soplido de aire vacío. El agua se ha cortado. El reloj de pared marca las 12:45 PM. Hay una montaña de pedidos listos para empaquetar y verduras sin procesar. Luz de día contrastada con sombras duras. 
