@@ -381,4 +381,11 @@ mientras la luz del sol baña la escena.
 
 **FUNDIDO A NEGRO.**
 
+**OUTRO**
+**NORBERTO**
+Llega a su casa, no ecuentra a su esposa Pati, nada de su ropa y pertenecias.
+Le marca por telefono, no constesta... Lo distrae un recibo arrugado sobre 
+la mesa: "Desalojo judicial inmediato, fecha: hoy"...
+Suena telefon de Norberto, es Lupe.
+
 **FIN.**
