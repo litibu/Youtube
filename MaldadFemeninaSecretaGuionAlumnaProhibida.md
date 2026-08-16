@@ -1,13 +1,29 @@
-            **Resumen del video:**
+canal de youtube
+**Maldad Femenina Secreta**
+
+**Capitulo**
+Alumna prohibida.
+
+video referencia:
 https://www.youtube.com/watch?v=CQbxd7z4TEY 
 
-El video presenta la historia de *Norberto*, una profesor de matemáticas atrapado en un matrimonio 
-disfuncional con *Pati*, un mujer adicta a las apuestas y al desinterés. La trama comienza 
-cuando *Norberto*, un alumna, le propone una relación clandestina sexual a cambio de dinero para 
-resolver sus problemas financieros. La situación escala hacia el chantaje por parte del directora 
-de la universidad y delitos informáticos cometidos por *Norberto*, quien finalmente traiciona a 
-*Norberto* para incriminarlo. Tras un proceso legal, la aparición de *Ernesto*, otra víctima, 
-permite desenmascarar al estafador y liberar a *Norberto*.
+**Resumen**
+El video presenta la historia de *Norberto* (51 años), un profesor de matemáticas atrapado 
+en un matrimonio disfuncional con su esposa *Pati* (38 años), un mujer adicta a las apuestas 
+y con desinterés sexual hacia su esposo. La trama comienza cuando *Lupe*, una alumna adinerada, 
+le propone una relación clandestina sexual a cambio de dinero para resolver sus problemas 
+financieros. *Norberto* presionado economicamente y deshalentado por su mujer, decide aceptar
+el trato de *Lupe*.
+Al escuchar casualmente una conversación por telefono de su esposa con un hombre desconocido, 
+*Norberto* descubre el origen del desinteres sexual de su esposa *Pati*, esta lo engaña desde 
+hace meses.
+La situación se agrava ocurre un chantaje por parte de la directora de la universidad, 
+quien acusa a *Norberto* de abuso de confianza y faltas a la moral (exite video que lo 
+compromete).
+Aparece *Ernesto*, hijo de un exprofesor de la misma facultad, quien fue víctima de la 
+misma alumna manipuladora.
+Tras un proceso legal, es absuelto de culpa *Norberto*.
+La esposa *Pati* pierde la confianza en *Norberto* y decide divorciarse de el.
 
 **Guía técnica de producción:**
 * **Género:** 
@@ -21,39 +37,40 @@ Música de suspenso en momentos de revelación y música dramática en los momen
 **Descripción de personajes:**
 * *Norberto:* Profesor de matemáticas, trabajador y vulnerable ante su crisis financiera.
 * *Lupe:* Antagonista joven, manipuladora, inteligente y estafadora (hacker).
-* *Pati:* Esposa de *Norberto*, perezosa y adicta a las apuestas.
-* *Directora:* Autoridad universitaria que abusa de su poder para extorsionar.
-* *Ernesto:* Alumno, clave para la resolución del conflicto al exponer las tácticas de *Norberto*.
-
+* *Pati:* Esposa infiel de *Norberto*, perezosa y adicta a las apuestas.
+* *Directora:* Autoridad universitaria que abusa de su poder satisfacer su ego.
+* *Ernesto:* Hijo de exprofesor de la misma facultad, clave para la resolución del conflicto 
+   al exponer las tácticas de *Lupe*.
 
 
 **ESCALETA**
 **Guion literario y técnico fusionado:**
 
 * **Acto I: La propuesta (0:00 - 13:00)**
-    * *Escena 1 (Aula):* Norberto confiesa su obsesión a *Norberto* y le ofrece dinero a cambio de 
-       relaciones sexuales. 
+    * *Escena 1 (Aula): *Lupe* confiesa su obsesión por *Norberto* y le ofrece dinero a cambio de 
+       relaciones sexuales. *Norberto* la rechaza inicialmente. 
        (Plano medio, luz de aula, audio ambiental de pasillo).
     * *Escena 2 (Casa de Norberto):* Discusión con *Pati* por deudas. *Norberto* se siente desesperado. 
        (Plano detalle del dinero, cámara fija).
 
 * **Acto II: La trampa y la caída (13:00 - 45:00)**
-    * *Escena 3 (Habitación de Norberto):* *Norberto* acepta el trato para tener relaciones sexuales 
+    * *Escena 3 (Habitación de *Lupe*):* *Norberto* acepta el trato para tener relaciones sexuales 
        pero se siente mal moral y psicológicamente.
        (Plano cenital, luz cálida de habitación).
     * *Escena 4 (Oficina de la Directora):* Extorsión mediante video de seguridad. *Norberto* cede 
-       ante el chantaje. 
+       ante el evidencia. 
        (Primer plano de *Norberto* asombrado, angustiado).
-    * *Escena 5 (Arresto):* La policía detiene a *Norberto* al ser acusado por las actividades de 
-       hackeo de *Norberto*. 
-       (Plano general exterior, sirenas de patrullas policiales, voces de mando).
+    * *Escena 5 (Arresto):* La policía interna de la escuela detiene a *Norberto* al ser acusado 
+       por comportamiento indebido hacia la alumna. 
+       (Plano general exterior, murmullo de estudiantes).
 
 * **Acto III: Justicia y redención (45:00 - 1:15:12)**
-    * *Escena 6 (Cárcel):* *Norberto* reflexiona sobre sus decisiones equivocadas mientras *Ernesto* 
+    * *Escena 6 (Casa de Norberto):* *Norberto* reflexiona sobre sus decisiones equivocadas mientras *Ernesto* 
        investiga la verdad. 
-       (Plano detalle de manos tras rejas, eco metálico de rejas cerrándose, respiración pausada).
-    * *Escena 7 (Encuentro final):* *Norberto* es arrestada mientras intenta engañar a *Ernesto*. 
-      *Norberto* es liberado y busca un nuevo comienzo. 
+       (Plano detalle de manos en puños, respiración agitada).
+    * *Escena 7 (Encuentro final):* *Ernesto* confronta a *Lupe* y la expone ante las 
+       autoridades de la escuela. 
+      *Norberto* liberado, busca un nuevo comienzo, no es posible, las concecuencias se presentan. 
       (Plano general de cierre con música de esperanza).      
       
       
@@ -61,7 +78,6 @@ Música de suspenso en momentos de revelación y música dramática en los momen
 
 
 **Guion técnico**
-https://www.youtube.com/watch?v=CQbxd7z4TEY 
 
 Acto,Escena / Locación,Tipo de Plano,Ángulo / Movimiento,Iluminación,Diseño Sonoro / FX
 
@@ -152,31 +168,30 @@ Transición a **Plano Medio (PM)** enfocado en el escritorio de Norberto.
 * **Audio:** Murmullo de estudiantes alejándose por el pasillo exterior.
 
 **ACCIÓN:**
-NORBERTO (40 años, rostro agotado, expresión preocupada) guarda sus carpetas y 
+NORBERTO (rostro agotado, expresión preocupada) guarda sus carpetas y 
 libros de cálculo en su maletín. LUPE (20 años, mirada analítica, vestimenta pulcra) 
 espera pacientemente en una banca hasta que el último alumno abandona el salón. 
 Norberto se levanta y camina con paso firme hacia el escritorio.
 
-*LUPE**
+**LUPE**
 *(Tono calmado, casi íntimo)*
-Hola profesor Norberto... veo que hoy no tuvo su mejor día. Parecía distraído durante 
-la explicación del teorema.
+Hola profesor Norberto... hoy luce preocupado. 
 
 **NORBERTO**
 *(Sin levantar la mirada de sus notas)*
-Solo es cansancio de fin de ciclo. Si tienes dudas con los ejercicios de la guía, 
+No es asunto tuyo. Si tienes dudas con los ejercicios, 
 mañana lo revisamos.
 
 **CÁMARA:**
-Corte a **Primer Plano (PP)** de Norberto. Sonríe sutilmente y da un paso más cerca.
+Corte a **Primer Plano (PP)** de Lupe. Sonríe sutilmente y da un paso más cerca.
 
 **LUPE**
 Mis dudas no son de matemáticas. Sé perfectamente por lo que está pasando... 
-las deudas de su esposa, las llamadas insistentes de cobranza que atiende en 
-los recesos.
+las deudas de su esposa, las llamadas de cobranza que atiende en 
+los pasillos.
 
 **NORBERTO**
-*(Sorprendido e indignado, subiendo la mirada)*
+*(Sorprendido, subiendo la mirada)*
 ¿De qué hablas? Ese no es asunto tuyo. Por favor, retirate.
 
 **LUPE**
@@ -186,7 +201,7 @@ atención privada... asesorías especiales. (tocandole el brazo).
 Piénselo. Además sera divertido (le guiña el ojo). 
 
 *Norberto da media vuelta y sale. La cámara realiza un **Plano Detalle (PD)** 
-del sobre sobre la mesa de madera.*
+del sobre sobre el escritorio de madera.*
 
 
 ### ESCENA 2: INT. CASA DE NORBERTO / SALA - NOCHE
@@ -197,7 +212,7 @@ del sobre sobre la mesa de madera.*
 
 **ACCIÓN:**
 Pati (35 años, desarreglada, sentada en el sofá con el teléfono en la mano, 
-revisa números de apuestas). 
+revisa números de apuestas). La cámara se mueve lentamente alrededor de ella.
 Norberto (entra, deja su maletín en la mesa y sostiene un puñado de recibos 
 de corte de servicios. Pati sigue en lo suyo, sin percatarse de la presencia de Norberto)
 
