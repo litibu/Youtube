@@ -1,18 +1,20 @@
-@DecideQueComer 
-Vídeos de 19 a 23 minutos, con la narración de las especificaiones de cada alimento 
-y la comparación entre ellos. 
+**Decide que Comer**
+Canal de youtube @DecideQueComer 
+Vídeos de 19 a 23 minutos 
 
-Audiencia
+**Audiencia**
 Jóvenes indecisos, interesados en experimentar sabores nuevos.
 
-Beneficio al espectador
-Ayudarlos a decidir qué comer, presentando comparaciones entre alimentos similares y 
-explicando sus diferencias en sabor, textura, origen y acompañamientos.
+**Beneficio** 
+Ayudarlos a decidir qué comer. 
 
-Descripción
-Se informa al espectador sobre las principales diferencias entre alimentos semejantes.
-Se exponen en detalle sus componentes, sabor característico, hábitos de consumo, origen 
-regional, acompañamiento con otros alimentos y popularidad.
+**Descripción**
+Se explica el origen, preparación y las comparaciones entre alimentos
+similares, explicando sus diferencias en sabor, textura, origen y
+acompañamientos.
+
+Se informa al espectador sobre las principales diferencias entre alimentos
+del mismo tipo.
 
 Estilo
 Narración en diálogo entre el protagonista Beto y la interlocutora Beti. 
