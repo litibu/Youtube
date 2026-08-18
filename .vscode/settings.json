@@ -1,4 +1,8 @@
 {
   "editor.lineNumbers": "on",
-  "editor.unicodeHighlighting.enabled": false
+  "editor.unicodeHighlighting.enabled": false,
+  "files.associations": {
+    "*.md": "markdown"
+  },
+  "editor.semanticHighlighting.enabled": true
 }
