@@ -1,4 +1,4 @@
-# Guion: "Mayonesa, ¿sabrosa embarrada o promueve infartos?"
+# Guion: "Mayonesa, ¿sabrosa embarrada que engorda?"
 **Canal de YouTube:** `@JuicioAlimentoApetecible`
 **Serie / Formato:** Juicio Alimento Apetecible
 **Género:** Drama judicial divulgativo / Ciencia de los alimentos / Debate gastronómico
@@ -100,8 +100,9 @@ graph TD
 ### **Acto I: Apertura del Juicio y Acusación Formal (00:00 – 02:30)**
 Presentación del caso en el tribunal. Se expone a la mayonesa como aderezo predilecto
 de millones de hogares, señalada por promover sobrepeso y riesgo cardiovascular.
-**⚡ PLOT POINT #1** — desde el primer minuto se plantea una pregunta abierta que solo
-se resolverá hasta el Acto VI: *¿la mayonesa saldrá culpable o inocente?*
+**⚡ PLOT POINT #1** — desde el primer minuto se plantea una preguntas abiertas que solo
+se resolverán hasta el Acto VI: *¿la mayonesa engorda?, es aterogénica?, o es solo provoca 
+sabor y placer?*
 
 ### **Acto II: Antecedentes e Historia — La Química del Origen (02:30 – 05:45)**
 Origen de la salsa mayonesa e ingredientes básicos (yema de huevo, aceite vegetal,
@@ -115,7 +116,7 @@ ingrediente por ingrediente, qué contiene realmente el frasco industrial promed
 
 ### **Acto IV: Alegatos de la Defensa — Practicidad, Sabor y Realidad Cotidiana (10:30 – 14:15)**
 Beti presenta la defensa basada en la cocina real, el costo accesible y la seguridad
-alimentaria de la versión pasteurizada frente a la casera.
+alimentaria de la versión comercial pasteurizada frente a la casera.
 **⚡ PLOT POINT #3** — La propia Mayonesa, hasta entonces solo espectadora sarcástica,
 interrumpe el juicio para dar su propio testimonio y defenderse con sus palabras.
 
@@ -378,7 +379,7 @@ de cierre alegre y dinámico con guitarra y percusión para la despedida.
 * **Texto en Pantalla / Gráfico:**
 *"VEREDICTO: CULPABLE POR EXCESO DE USO / INOCENTE SI SE DOSIFICA CON INTELIGENCIA"*,
 seguido de tarjetas finales: *"Porción máxima sugerida: 1 cucharada cafetera (10-15g)
-al día. ¡Suscríbete y activa la campana para el próximo juicio!"*.
+al día. ¡Suscríbete, en breve daremos inicio a otro juicio!. 
 
 ---
 
@@ -397,7 +398,7 @@ elote hervido cubierto con mayonesa, queso y chile piquín en polvo).*
 **BETO (V.O.)**
 *(Tono intrigante, voz profunda y cautivadora)*
 Quizás está en tu refrigerador ahora mismo. Quizás es el secreto cotidiano que
-transforma tu sándwich seco en una delicia jugosa. Es parte del desayuno que llevas
+transforma tu bolillo seco en una delicia torta. Aseguro, es parte del desayuno que llevas
 al trabajo: práctico, económico y delicioso.
 
 *(Corte seco. Pantalla a negro por un segundo. Suena el icónico golpe de mazo
@@ -405,7 +406,8 @@ judicial: ¡CLAC, CLAC, CLAC!).*
 
 **BETO (V.O.)**
 Pero detrás de esa tersa y apetitosa blancura, ¿se oculta una amenaza silenciosa para
-tu corazón? Al final de este juicio lo sabrás con certeza: ¿culpable... o inocente?
+tu corazón?, ¿aumenta tu cintura? Al final de este juicio lo sabrás con certeza: 
+¿es aterogénica? ¿engorda?, ¿culpable... o inocente?.
 
 *(Aparece el estrado de un juzgado solemne. En el banquillo de los acusados reposa
 solitario, bajo un reflector, un frasco de mayonesa comercial con mirada altanera).*
@@ -420,8 +422,8 @@ solitario, bajo un reflector, un frasco de mayonesa comercial con mirada altaner
 Silencio en la sala. Bienvenidos al tribunal de *Juicio al Alimento Apetecible*. Hoy
 se sienta en el banquillo uno de los alimentos más consumidos del planeta: la
 mayonesa. Se le imputan cargos graves: incitar al consumo desmedido de grasas
-invisibles y favorecer el sobrepeso y el riesgo cardiovascular en quienes solo buscan
-comer sabroso. ¿Mayonesa, cómo se declara?
+invisibles y favorecer el sobrepeso y aumentar el riesgo cardiovascular en quienes 
+solo buscan comer sabroso. ¿Mayonesa, cómo se declara?
 
 **BETI**
 *(Entrando decidida desde la bancada de la defensa, acomodándose los papeles con una
