@@ -33,7 +33,8 @@ y transiciones de corte judicial (*doink-doink* / golpe seco de campana grave).
 
 ```mermaid
 graph TD
-    A[Acto I: Apertura del Juicio y Acusación Formal] --> B[Acto II: Antecedentes e Historia de la Emulsión]
+    A[Acto I: Apertura del Juicio y Acusación Formal]
+      --> B[Acto II: Antecedentes e Historia de la Emulsión]
     B --> C[Acto III: Pruebas de la Fiscalía - Análisis del Mercado Industrial]
     C --> D[Acto IV: Alegatos de la Defensa - Practicidad, Sabor y Realidad del Consumidor]
     D --> E[Acto V: Contraste de Datos Duros - Casera vs Industrial]
