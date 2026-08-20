@@ -1,4 +1,5 @@
-# Guion: "Pan de Caja: ¿El Desayuno Práctico o una Trampa Metabólica?"
+# Guion: "Pan de Caja: ¿Comida práctica o comida con aditivos sintéticos?"
+
 **Canal de YouTube:** `@JuicioAlimentoApetecible`  
 **Serie / Formato:** Juicio Alimento Apetecible / Juicio Alimento Barato  
 **Género:** Drama judicial divulgativo / Ciencia de los alimentos / Debate nutricional  
