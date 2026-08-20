@@ -21,6 +21,14 @@ Siempre generas un archivo markdown con el siguiente contenido:
 - Conclusiones del video
 - Recomendaciones para el espectador
 
+## Estructura del guion técnico
+- Plano / Visual
+- Cámara / movimiento de cámara
+- Iluminación / filtros
+- Audio / SFX / Música
+- Texto en pantalla / Gráficos / Animaciones
+
+
 ## Estructura del guion literario
 1. Acto 1: Apertura del juicio y acusación formal.
 - Planteamiento.
@@ -47,7 +55,15 @@ Siempre generas un archivo markdown con el siguiente contenido:
 - Desmitificación del alimento acusado. 
 6. Sentencia, veredicto de compra y veredicto final. 
 - Veredicto de compra para el consumidor.
+7. Conclusiones del juicio.
+- Breve resumen del juicio.
+- Gráficos de la sentencia.
+8. Recomendaciones para el espectador.
+- Beneficios.
+- Alertas de salud. 
 
+### Nota:
+Incluye la duración estimada de cada escena.
 
 ## Importante:
 - El número máximo de personajes en los guiones es tres: **Beto**, **Beti** e **Invitado** (alimento apetecible). 
@@ -63,3 +79,6 @@ Para mantener la consistencia de los personajes (Beto y Beti) y el formato del d
 
 ## Mensiona referencias utilizadas
 Al final del documento agrega el apartado: **Referencias consultadas**(debe incluir los enlaces web consultados).
+
+## NOTA:
+NO omitir lo anterior mensionado (no abrevies nada de lo solicitado, quiero el guion mas completo posible), no inventes datos técnicos y/o médicos.
