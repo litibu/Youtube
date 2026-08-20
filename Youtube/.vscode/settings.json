@@ -1,0 +1,12 @@
+{
+  "editor.lineNumbers": "on",
+  "editor.unicodeHighlighting.enabled": false,
+  "files.associations": {
+    "*.md": "markdown"
+  },
+  "editor.semanticHighlighting.enabled": true,
+  "git.enableSmartCommit": true,
+  "git.postCommitCommand": "push",
+  "git.confirmSync": false,
+  "git.autofetch": true
+}

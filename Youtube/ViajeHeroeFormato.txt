@@ -1,0 +1,46 @@
+Estructura "El viaje del heroe" por Joseph Campbell
+Contiene 12 etapas (plot points), momentos claves del guion. 
+Es dividida en tres actos: Plantamiento, Punto de no retorno y resolución.
+
+Primero Acto 
+Plantamiento 
+Objetivo: Establece el mundo del héroe y el evento que interrumpe su rutina.
+
+1.Ambiente cotidiano.
+El mundo actual del heroe, su rutina, el contexto en el que vive.
+2. Llamada a la aventura.
+Incidente detonante, evento que obliga al personaje a salir de su ambiente cotidiano.
+3. Rechazo de la llamada.
+El personaje duda y se niega a participar en la aventura.
+4. Encuentro con el mentor 
+El personaje encuentra a un mentor que lo ayuda a superar sus dudas y a prepararse 
+para la aventura, o un evento que le muestra información que lo impulsa a decidirse.
+5. Travesía del primer umbral 
+El heroe toma la decisión irreversible de entrar al mundo desconocido.
+
+Segundo Acto 
+Objetivo: Probar al heroe en un entorno hostil donde su anteriores reglas no funcionan,
+llevándolo a su punto más bajo.
+
+6. Pruebas y desafíos.
+El personaje explora las reglas del nuevo mundo, forma equipo y se enfrenta a pruebas 
+menores. Prepara el terreno para la prueba principal. Los riesgos aumentan.
+7. La gran prueba (midpoint)
+El héroe se enfrenta al peligro central o mayor desafio. Sufre una perdida crítica
+8. El calvario
+Momento crítico de vida o muerte.
+9. La recompensa.
+El protagonista al sobrevivir al peligro central obtiene la recompensa (revelación, mapa,
+poder). 
+
+Tercero Acto 
+Resolución 
+
+10. El camino de regreso (plot point)
+El antagonista contraataca, lo vence y elimina fallas para seguir adelante. 
+11. Resurrección
+Enfrentamiento definitivo con la fuerza antagonica, se transforma el heroe. 
+El heroe aplica la lección aprendida durante el viaje. 
+Al ganar demuestra que ha cambiado. 
+12. Regreso con el poder (elixir)
+Se muestra la nueva versión del heroe y su transformación.
