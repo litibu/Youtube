@@ -35,24 +35,39 @@ policiacas y dramas judiciales.
 El vídeo recurre a imágenes, fotos y vídeos libres de derechos de autor. 
 
 Beto
-- Ingeniero bioquímico, cuenta con experiencia en nutrición y tecnologías de los alimentos.
-- Conoce los alimentos cotidianos y sus habitos de consumo.
 - Se encarga de la acusación del alimento cotidiano, exponiendo sus características 
   y posibles efectos en la salud.
+- Ingeniero bioquímico, cuenta con experiencia en nutrición y tecnologías de los alimentos.
 - Se apoya en datos científicos y estudios para sustentar sus argumentos.
+- Conoce los habitos de consumo del alimento acusado basado en información de 
+  encuestas y estudios.
 - Se comunica de manera clara y didáctica, evitando tecnicismos innecesarios.
 - Se muestra como un personaje confiable y objetivo, buscando siempre el bienestar del 
 espectador.
 - Es cabelleroso y respetuoso, manteniendo un tono profesional durante todo el juicio.
+- Voz confiable, segura. 
+- Mantiene autoridad sin caer en soberbia o arrogancia. Reconoce la valides de los 
+  argumentos expuestos por Beti.
 
 Beti
-- Madre trabajadora, con experiencia en la preparación de alimentos cotidianos.
-- Se encarga de la defensa del alimento cotidiano, exponiendo sus beneficios y la opinión 
-de los consumidores.
-- Se apoya en testimonios de consumidores y experiencias personales para sustentar sus 
-argumentos.
+- Se encarga de la defensa del alimento acusado, exponiendo sus beneficios y la opinión 
+  de los consumidores.
+- Joven trabajadora, con experiencia en la compra y preparación de alimentos cotidianos.
 - Se comunica de manera empática, buscando conectar con la audiencia.
 - Es alegre y risueña, manteniendo un tono amigable durante todo el juicio.
+- Se apoya en testimonios de consumidores y experiencias personales para sustentar sus 
+argumentos.
+- Aporta argumentos de defensa como: practicidad, costos, la realidad cotidiana del 
+  consumidor (presupuesto limitado, jornadas largas de trabajo, saciedad, sabor).
+- Introduce el argumento de seguridad alimentaria(versión industrial pasteurizada vs 
+  riesgo de infección en la preparasión casera).
+- Sirve de puente emocional con la audiencia: reacciona, resume y en ocaciones "traduce"
+  los hallazgos técnicos que expone Beto. 
+- Es contrapeso a Beto, el debate es sobre las diferentes perspectivas (ciencia/riesgo vs 
+  practicidad/sabor/costo/disponibilidad). 
+
+
+
 
 Títulos propuesto para los vídeos
 
