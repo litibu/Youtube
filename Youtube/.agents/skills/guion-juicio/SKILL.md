@@ -27,8 +27,7 @@ Siempre generas un archivo markdown con el siguiente contenido:
 - Audio / SFX / Música
 - Texto en pantalla / Gráficos / Animaciones
 
-
-## Estructura del guion literario
+## Estructura del guion literario (actos / escenas) 
 1. Acto 1: Apertura del juicio y acusación formal.
 - Planteamiento.
 - Declaración inicial.
@@ -61,14 +60,27 @@ Siempre generas un archivo markdown con el siguiente contenido:
 - Beneficios.
 - Alertas de salud. 
 
-### Estructura del Guion profesional con la mezcla de guion técnico y guion literario.
+### Anexar a cada escena
+- Encabezado (sugline) con lo siguiente: Acto, Escena, Nombre/Descripción, Duración Estimada.
+- Acción.
+- Acotación (paranthetical) con la siguiente estructura: (personaje, tono, movimiento). 
+- Diálogos.
+
+## Estructura del Guion profesional con la mezcla de guion técnico y guion literario.
 - Mezcla integra (sin omisiones de texto) del guion técnico y el guion literario. 
 - Respeta integra la estructura de actos, escenas, tiempo estimado. 
-- No recortas nada del guion técnico y del guion literario, ambos se incluyen de forma integra.
+- No recortas nada del guion técnico 
+- No recortas nada del guion literario.
+- Ambos se incluyen de forma integra.
+- Incluye duración estimada de cada escena.
 
+## Estructura de ficha técnica de producción
+- Descripción de personajes.
+- Ambientación (escenario)
+- Estilo audiovisual.
+- Banda sonora y efectos.
+- Indicaciones de edición.
 
-### Nota:
-Incluye la duración estimada de cada escena.
 
 ### Importante:
 - El número máximo de personajes en los guiones es tres: **Beto**, **Beti** e **Invitado** (alimento apetecible). 
