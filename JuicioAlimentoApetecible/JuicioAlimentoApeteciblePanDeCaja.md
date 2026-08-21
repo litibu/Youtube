@@ -9,30 +9,51 @@
 
 ## Ficha Técnica de Producción
 
-* **Acusador (Fiscalía):** 
-  **BETO** (Ingeniero bioquímico, especialista en nutrición y tecnología de alimentos. Tono científico, didáctico, objetivo, respetuoso y profesional. Viste traje formal sobrio con bata de laboratorio estilizada o camisa formal con corbata).
-* **Defensora (Bancada de la Defensa):** 
-  **BETI** (Joven trabajadora, madre de familia y cocinera cotidiana. Tono empático, alegre, perspicaz, defensora de la economía y la practicidad del hogar. Viste ropa ejecutiva casual moderna y amigable).
-* **El Acusado en el Estrado:** 
-  **EL PAN DE CAJA** (Personificado / Barra de pan de caja rebanado en su empaque con corbata miniatura y expresión de incertidumbre en el banquillo de los acusados).
-* **Ambientación:** 
-  Sala de tribunal judicial moderna que fusiona la solemnidad de un juzgado de madera y mármol con pantallas de análisis bioquímico, microscopios, tablas de mercado y una mesa de cocina de pruebas.
-* **Estilo Audiovisual:** 
-  Estilo *Law & Order* / drama procesal combinado con infografía animada estilo *Vox/Explained*, tomas macro gastronómicas hiperrealistas y cortes dinámicos con humor inteligente.
-* **Banda Sonora y Efectos:** 
-  Golpes de mazo con reverberación dramática, acordes de violonchelo tenso, transiciones con campana judicial baja (*gong / doink-doink*), y temas rítmicos de investigación forense.
+* **Acusador (Fiscalía):**  
+**BETO**  
+(Ingeniero bioquímico, especialista en nutrición y tecnología de alimentos.  
+Viste formal con bata blanca de laboratorio).   
+**BETI**  
+(Joven trabajadora, madre de familia y cocinera cotidiana. Tono empático, alegre,   
+perspicaz, defensora de la economía y la practicidad del hogar. Viste ropa ejecutiva  
+casual moderna y amigable).
+* **Ambientación:**  
+Sala de tribunal judicial moderna que fusiona la solemnidad de un juzgado de madera y   
+mármol con pantallas de análisis bioquímico, microscopios, tablas de mercado y una mesa  
+de cocina de pruebas.
+* **Estilo Audiovisual:**  
+Estilo *Law & Order* / drama procesal combinado con infografía animada estilo  
+*Vox/Explained*, tomas macro gastronómicas hiperrealistas y cortes dinámicos con  
+humor inteligente.
+* **Banda Sonora y Efectos:**  
+Golpes de mazo con reverberación dramática, acordes de violonchelo tenso, transiciones  
+con campana judicial baja (*gong / doink-doink*), y temas rítmicos de investigación forense.
 
 ---
 
 # I. Resumen del Video
 
-En este juicio culinario y científico, Beto y Beti llevan al banquillo de los acusados al rey indispensable de los desayunos escolares, oficinas y alacenas mexicanas: **El Pan de Caja**. 
+En este juicio culinario y científico, Beto y Beti llevan al banquillo de los acusados al  
+rey indispensable de los desayunos escolares, oficinas y alacenas mexicanas: **El Pan de Caja**. 
 
-Beto, armado con el riguroso **Estudio de Calidad de la Revista del Consumidor de la Profeco (abril 2024)**, normas oficiales mexicanas y bibliografía de ingeniería en alimentos, expone los fraudes comerciales del empaque: productos que simulan ser integrales o de linaza conteniendo cantidades insignificantes de semillas, marcas que omiten sellos obligatorios de advertencia de sodio (como Fiiller y Lecaroz), aditivos ultraprocesados, azúcares añadidos y harinas refinadas de rápida absorción que disparan picos de glucosa e insulina. 
+Beto, armado con el riguroso **Estudio de Calidad de la Revista del Consumidor de la  
+Profeco (abril 2024)**, normas oficiales mexicanas y bibliografía de ingeniería en  
+alimentos, expone los fraudes comerciales del empaque: productos que simulan ser  
+integrales o de linaza conteniendo cantidades insignificantes de semillas, marcas  
+que omiten sellos obligatorios de advertencia de sodio (como Fiiller y Lecaroz),  
+aditivos ultraprocesados, azúcares añadidos y harinas refinadas de rápida absorción  
+que disparan picos de glucosa e insulina. 
 
-Por su parte, Beti encabeza una defensa pragmática y empática: reivindica la inigualable practicidad y economía del pan de caja para quien no dispone de 14 horas para amasar masa madre, resalta su inocuidad microbiológica industrial (ausencia de hongos y bacterias que arruinarían el alimento en días) y rescata la obligatoriedad regulatoria de fortificación con hierro, ácido fólico, zinc y vitaminas del complejo B. 
+Por su parte, Beti encabeza una defensa pragmática y empática: reivindica la  
+inigualable practicidad y economía del pan de caja para quien no dispone de 14  
+horas para amasar masa madre, resalta su inocuidad microbiológica industrial  
+(ausencia de hongos y bacterias que arruinarían el alimento en días) y rescata  
+la obligatoriedad regulatoria de fortificación con hierro, ácido fólico, zinc y  
+vitaminas del complejo B. 
 
-A través de un careo técnico y un análisis forense de marcas, el jurado dictamina un veredicto de compra con marcas transparentes y reglas de consumo para disfrutar de un sándwich sin deteriorar la salud metabólica.
+A través de un careo técnico y un análisis forense de marcas, el jurado  
+dictamina un veredicto de compra con marcas transparentes y reglas de consumo  
+para disfrutar de un sándwich sin deteriorar la salud metabólica.
 
 ---
 
@@ -40,7 +61,8 @@ A través de un careo técnico y un análisis forense de marcas, el jurado dicta
 
 ```mermaid
 graph TD
-    A[Acto 1: Apertura del Juicio y Acusación Formal] --> B[Acto 2: Antecedentes e Historia del Pan Industrial]
+    A[Acto 1: Apertura del Juicio y Acusación Formal] 
+      --> B[Acto 2: Antecedentes e Historia del Pan Industrial]
     B --> C[Acto 3: Pruebas de la Fiscalía - Estudio Profeco y Radiografía Forense]
     C --> D[Acto 4: Alegatos de la Defensa - Conveniencia, Costo y Realidad Cotidiana]
     D --> E[Acto 5: Careo y Contraste de Datos Duros - Casero vs Industrial vs Integrales]
@@ -49,22 +71,32 @@ graph TD
     G --> H[Acto 8: Recomendaciones y Reglas de Oro para el Espectador]
 ```
 
-* **Acto 1: Apertura del juicio y acusación formal (00:00 – 02:15)**
-  Presentación del caso. Planteamiento del pan de caja como el alimento universal de la rutina diaria. Acusación formal por engaño publicitario, exceso de sodio y deterioro metabólico.
-* **Acto 2: Antecedentes e historia (02:15 – 05:00)**
-  El contraste entre el pan tradicional de fermentación lenta (harina, agua, levadura, sal) y la revolución del Proceso de Panificación Chorleywood (1961) que dio origen al pan ultraprocesado de anaquel.
-* **Acto 3: Pruebas de la Fiscalía (05:00 – 09:30)**
-  Desglose del Estudio de Calidad de Profeco (abril 2024, 46 marcas analizadas). Lectura de etiquetas: ingredientes fantasma (linaza al 0.5%), marcas que burlaron el sello de exceso de sodio (Fiiller, Lecaroz) e impacto glucémico.
-* **Acto 4: Alegatos de la Defensa (09:30 – 13:45)**
-  Beti defiende el valor organoléptico, la estabilidad higiénica contra el moho doméstico, la rapidez en la vida del estudiante y trabajador, y la fortificación legal de harinas con micronutrientes esenciales. Testimonio del Pan de Caja.
-* **Acto 5: Careo y contraste de datos duros (13:45 – 17:30)**
-  Tablas comparativas: Masa madre artesanal vs. Pan blanco de caja vs. Pan integral comercial. Desmitificación de falsos integrales y análisis de sodio por rebanada.
+* **Acto 1: Apertura del juicio y acusación formal (00:00 – 02:15)**  
+  Presentación del caso. Planteamiento del pan de caja como el alimento universal de la  
+  rutina diaria. Acusación formal por engaño publicitario, exceso de sodio y deterioro metabólico.
+* **Acto 2: Antecedentes e historia (02:15 – 05:00)**  
+  El contraste entre el pan tradicional de fermentación lenta (harina, agua, levadura, sal)  
+  y la revolución del Proceso de Panificación Chorleywood (1961) que dio origen al pan  
+  ultraprocesado de anaquel.
+* **Acto 3: Pruebas de la Fiscalía (05:00 – 09:30)**  
+  Desglose del Estudio de Calidad de Profeco (abril 2024, 46 marcas analizadas).  
+  Lectura de etiquetas: ingredientes fantasma (linaza al 0.5%), marcas que burlaron el sello  
+  de exceso de sodio (Fiiller, Lecaroz) e impacto glucémico.
+* **Acto 4: Alegatos de la Defensa (09:30 – 13:45)**  
+  Beti defiende el valor organoléptico, la estabilidad higiénica contra el moho doméstico,  
+  la rapidez en la vida del estudiante y trabajador, y la fortificación legal de harinas  
+  con micronutrientes esenciales. Testimonio del Pan de Caja.
+* **Acto 5: Careo y contraste de datos duros (13:45 – 17:30)**  
+  Tablas comparativas: Masa madre artesanal vs. Pan blanco de caja vs. Pan integral comercial  
+  Desmitificación de falsos integrales y análisis de sodio por rebanada.
 * **Acto 6: Sentencia, veredicto de compra y veredicto final (17:30 – 19:45)**
-  Dictamen no prohibitivo pero regulatorio. Clasificación de marcas del mercado: La mejor integral, la más accesible y balanceada, la baja en azúcares y las que reprueban por engaño.
-* **Acto 7: Conclusiones del juicio (19:45 – 20:50)**
+  Dictamen no prohibitivo pero regulatorio. Clasificación de marcas del mercado: La mejor  
+  integral, la más accesible y balanceada, la baja en azúcares y las que reprueban por engaño.
+* **Acto 7: Conclusiones del juicio (19:45 – 20:50)**  
   Resumen de los hechos comprobados y gráficos de la sentencia en pantalla.
-* **Acto 8: Recomendaciones para el espectador (20:50 – 22:00)**
-  Guía práctica en 4 pasos para seleccionar el pan ideal en el supermercado y combinarlo para amortiguar el pico de glucosa.
+* **Acto 8: Recomendaciones para el espectador (20:50 – 22:00)**  
+  Guía práctica en 4 pasos para seleccionar el pan ideal en el supermercado y combinarlo  
+  para amortiguar el pico de glucosa.
 
 ---
 
