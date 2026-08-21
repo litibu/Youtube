@@ -98,6 +98,9 @@ Para mantener la consistencia de los personajes (Beto y Beti) y el formato del d
 Al final del documento agrega el apartado: **Referencias consultadas**(debe incluir los enlaces web consultados).
 
 ### NOTA:
-- No omitir nada en los entregables (no abrevies nada de lo solicitado, realiza los guiones lo mas completo posible).
+- No omitir nada en los entregables (no abrevies nada de lo solicitado, realiza 
+los guiones lo mas completo posible).
 - No inventes datos técnicos y/o médicos.
-- Respeta el orden de los entregables solicitados.
+- Respeta el orden de los entregables solicitados. 
+
+
